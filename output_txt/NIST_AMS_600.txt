@@ -1,0 +1,4753 @@
+NIST Advanced Manufacturing Series 
+NIST AMS 600-13 
+Annual Report on the U.S. 
+Manufacturing Economy: 2023 
+Douglas Thomas 
+This publication is available free of charge from: 
+https://doi.org/10.6028/NIST.AMS.600-13 
+NIST Advanced Manufacturing Series  
+NIST AMS 600-13 
+Annual Report on the U.S. 
+Manufacturing Economy: 2023 
+ 
+ 
+Douglas Thomas 
+Applied Economics Office 
+Engineering Laboratory 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This publication is available free of charge from:  
+https://doi.org/10.6028/NIST.AMS.600-13 
+ 
+November 2023 
+ 
+U.S. Department of Commerce  
+Gina M. Raimondo, Secretary 
+National Institute of Standards and Technology  
+Laurie E. Locascio, NIST Director and Under Secretary of Commerce for Standards and Technology  
+ 
+NIST AMS 600-13 
+November 2023 
+ 
+Certain commercial equipment, instruments, software, or materials, commercial or non-commercial, are identified in 
+this paper in order to specify the experimental procedure adequately. Such identification does not imply 
+recommendation or endorsement of any product or service by NIST, nor does it imply that the materials or 
+equipment identified are necessarily the best available for the purpose.  
+NIST Technical Series Policies 
+Copyright, Use, and Licensing Statements 
+NIST Technical Series Publication Identifier Syntax 
+Publication History 
+Approved by the NIST Editorial Review Board on October 25, 2023 
+How to Cite this NIST Technical Series Publication 
+Thomas, Douglas (2023) Annual Report on the U.S. Manufacturing Economy: 2023. (National Institute of Standards 
+and Technology, Gaithersburg, MD), NIST Advanced Manufacturing Series 600-13. 
+https://doi.org/10.6028/NIST.AMS.600-13 
+NIST Author ORCID iDs 
+Douglas Thomas: 0000-0002-8600-4795  
+ 
+ 
+ 
+ 
+NIST AMS 600-13 
+November 2023 
+i 
+Abstract 
+This report provides a statistical review of the U.S. manufacturing industry. There are three 
+aspects of U.S. manufacturing that are considered: (1) how the U.S. industry compares to other 
+countries, (2) the trends in the domestic industry, and (3) the industry trends compared to those 
+in other countries. 
+Keywords 
+manufacturing; economy; supply chain; value added; statistics 
+ 
+NIST AMS 600-13 
+November 2023 
+ii 
+Table of Contents 
+Preface ........................................................................................................................................ iv 
+Executive Summary .................................................................................................................... v 
+ 
+Introduction ......................................................................................................................... 1 
+ 
+Value Added ........................................................................................................................ 7 
+ 
+US Manufacturing Supply Chain ..................................................................................... 21 
+ 
+Employment, Compensation, Profits, and Productivity .................................................. 2 
+ 
+Research, Innovation, and Factors for Doing Business ............................................... 12 
+ 
+Discussion ......................................................................................................................... 21 
+References ................................................................................................................................. 22 
+Appendix A. 
+U.S. Semiconductor Manufacturing ............................................................. 26 
+Appendix B. 
+Additive Manufacturing ................................................................................. 30 
+ 
+List of Tables 
+Table 3.1: Supply Chain Entities and Contributions, Annual Survey of Manufactures, 2021 ..... 21 
+Table 3.2: Direct and Indirect Manufacturing Value Added ........................................................ 23 
+Table 3.3: Imported Intermediate Manufacturing ($millions) ....................................................... 24 
+Table 3.4: Percent of U.S. Manufacturing Industry Supply Chain, by Country of Origin (2014) . 25 
+Table 3.5: Depreciable Assets and the Rate of Change, 2017 ($million 2017) .......................... 26 
+Table 3.6: Top 20 % of Domestic Supply Chain Entities, Value Added ...................................... 27 
+Table 3.7: Total Domestic Compensation for Manufacturing and its Supply Chain, by 
+Occupation .................................................................................................................................... 1 
+Table 4.1: Employment, Annual Survey of Manufactures ............................................................. 2 
+Table 4.2: Employment by Industry (Thousands): Current Population Survey ............................. 3 
+Table 4.3: Manufacturing Employment (Thousands): Current Employment Statistics .................. 3 
+Table 4.4: Fatal Occupational Injuries by Event or Exposure ....................................................... 5 
+Table 4.5: Total Recordable Cases of Nonfatal Injuries and Illnesses ......................................... 5 
+Table 5.1: World Economic Forum Competitiveness Index Indicators – Selection of those 
+Relevant to Standards, Technology, and Information Dissemination Solutions, Rankings Out of 
+141 Countries (Lower is Better) .................................................................................................. 18 
+Table 5.2: Rankings from the Competitive Industrial Performance Index 2021, 150 Total 
+Countries ..................................................................................................................................... 19 
+Table B.1: Approximation of U.S. Shipments and Value Added of Goods Produced using 
+Additive Manufacturing ............................................................................................................... 30 
+NIST AMS 600-13 
+November 2023 
+iii 
+ 
+List of Figures 
+Figure 1.1: Illustration of Objectives – Drive Inputs and Negative Externalities Down while 
+Increasing Production Output and Product Function .................................................................... 2 
+Figure 1.2: Data Categorization for Examining the Economics of Manufacturing ......................... 3 
+Figure 1.3: Illustration of the Feasibility of Data Collection and Availability .................................. 6 
+Figure 2.1: National 25-Year Compound Annual Growth, by Country (1996 to 2021): Higher is 
+Better ............................................................................................................................................ 8 
+Figure 2.2: National 5-Year Compound Annual Growth, by Country (2016 to 2021): Higher is 
+Better ............................................................................................................................................ 8 
+Figure 2.3: Manufacturing Value Added, Top 10 Manufacturing Countries (1970 to 2021) .......... 9 
+Figure 2.4: Manufacturing's Share of National GDP ................................................................... 10 
+Figure 2.5: Manufacturing Value Added Per Capita, Top 10 Largest Manufacturing Countries 
+(1970 to 2021): Higher is Better .................................................................................................. 10 
+Figure 2.6: Manufacturing Per Capita Ranking, 1970-2021: Lower is Better .............................. 11 
+Figure 2.7: Global Manufacturing Value Added by Industry, Top Five Producers and Rest of 
+World (ROW) (2015) – 64 Countries ........................................................................................... 12 
+Figure 2.8: Value Added by Major Sectors, Top 10 Largest Manufacturing Countries, 2020 ..... 13 
+Figure 2.9: Cumulative Percent Change in Value Added (2012 Chained Dollars)...................... 14 
+Figure 2.10: Value Added for Durable Goods by Type (billions of chained dollars), 2008-2022 15 
+Figure 2.11: Value Added for Nondurable Goods by Type (billions of chained dollars), 2008-
+2022: Higher is Better ................................................................................................................. 15 
+Figure 2.12: Manufacturing Value Added by Subsector (billions of chained dollars), 2005-2022
+ .................................................................................................................................................... 16 
+Figure 2.13: Current-Cost Net Stock: Private Equipment, Manufacturing (2005-2021) .............. 17 
+Figure 2.14: Current-Cost Net Stock: Private Structures, Manufacturing (2005-2021) ............... 18 
+Figure 2.15: Current-Cost Net Stock: Intellectual Property Products, Manufacturing (2005-2021)
+ .................................................................................................................................................... 19 
+Figure 2.16: Current-Cost Net Stock in Manufacturing, by Type (2005-2021) ............................ 20 
+Figure 3.1: Manufacturing Supply Chain, 2021 ........................................................................... 22 
+Figure 4.1: Cumulative Change in Percent in Manufacturing Employment (Seasonally Adjusted) 
+and Number of Job Openings (seasonally Adjusted), 2005-2023 ................................................ 4 
+Figure 4.2: Manufacturing Fatalities and Injuries .......................................................................... 5 
+Figure 4.3: Average Weekly Hours for All Employees (Seasonally Adjusted) .............................. 6 
+Figure 4.4: Average Hourly Wages for Manufacturing and Private Industry (Seasonally 
+Adjusted) ....................................................................................................................................... 7 
+Figure 4.5: Employee Compensation (Hourly) .............................................................................. 7 
+Figure 4.6: Inflation - Cumulative Percent Change in the Producer Price Index (Selling Price 
+Received), 2005-2023 ................................................................................................................... 8 
+Figure 4.7: Profits for Corporations ............................................................................................... 9 
+Figure 4.8: Nonfarm Proprietor's Income ...................................................................................... 9 
+Figure 4.9: Manufacturing Labor Productivity Index (2012 Base Year = 100) ............................ 10 
+Figure 4.10: Manufacturing Total Factor Productivity Index ....................................................... 10 
+Figure 4.11: Output per Labor Hour (Top Ten Countries Out of 133) ......................................... 11 
+Figure 5.1: Patent Applications (Residents) per Million People, Top Ten (1990-2020) .............. 12 
+Figure 5.2: Research and Development Expenditures as a Percent of GDP, Top Ten .............. 13 
+Figure 5.3: Manufacturing Enterprise Research and Development Expenditures ...................... 13 
+Figure 5.4: Researchers per Million People, Ranking ................................................................. 14 
+NIST AMS 600-13 
+November 2023 
+iv 
+Figure 5.5: Journal Articles, Top 10 Countries ............................................................................ 15 
+Figure 5.6: Merchandise Exports, Top Ten Exporters ................................................................ 15 
+Figure 5.7: IMD World Competitiveness Rankings for the US: Lower is Better (i.e., a Rank of 1 is 
+Better than a Rank of 64) – 64 countries ranked ........................................................................ 16 
+Figure 5.8: World Economic Forum 2019 Global Competitiveness Index: U.S. Pillar Rankings: 
+Lower is Better ............................................................................................................................ 17 
+Figure 5.9: Factors Impacting U.S. Business (Annual Survey of Entrepreneurs), 2016 ............. 19 
+Figure 5.10: Made-in-Country Index, 2017 ................................................................................. 20 
+Figure 5.11: Ipsos National Brands Index, 2021 ......................................................................... 20 
+ Preface 
+ 
+This study was conducted by the Applied Economics Office (AEO) in the Engineering 
+Laboratory (EL) at the National Institute of Standards and Technology (NIST).  The study 
+provides aggregate manufacturing industry data and industry subsector data to develop a 
+quantitative depiction of the U.S. manufacturing industry. 
+ 
+ 
+NIST AMS 600-13 
+November 2023 
+v 
+Executive Summary 
+This report provides a statistical review of the U.S. manufacturing industry. There are 
+three aspects of U.S. manufacturing that are considered: (1) how the U.S. industry 
+compares to other countries, (2) the trends in the domestic industry, and (3) the industry 
+trends compared to those in other countries. The U.S. remains a major manufacturing 
+nation; however, other countries are rising rapidly.  
+ 
+Although U.S. manufacturing performs well in many respects, there are opportunities for 
+advancing competitiveness. This will require strategic placement of resources to ensure 
+that U.S. investments have the highest return possible. 
+ 
+Competitiveness – Manufacturing Industry Size: In 2021, there was $14.5 trillion of 
+value added (i.e., GDP) in global manufacturing in constant 2015 dollars. The U.S. 
+accounted for $2.4 trillion (16.3 %) in manufacturing valued added while China 
+accounted for $4.5 trillion (30.9 %). Direct and indirect (i.e., purchases from other 
+industries) manufacturing accounts for 24.1 % of GDP. Among the ten largest 
+manufacturing countries, the U.S. is the 4th largest manufacturing value added per capita 
+(see Figure 2.5) and out of all countries the most recent U.S. rank is 14th, as illustrated in 
+Figure 2.6. In 2020, China outranked the U.S. in all of 6 major subsectors (see Figure 2.8) 
+ 
+ 
+Competitiveness – Manufacturing Growth: Compound real (i.e., controlling for 
+inflation) annual growth in the U.S. between 1996 and 2021 (i.e., 25-year growth) was 
+2.1 %, which places the U.S. below the 50th percentile. The compound annual growth for 
+the U.S. between 2016 and 2021 (i.e., 5-year growth) was 2.2 %. This puts the U.S. just 
+above the 50th percentile, above Canada and Germany among others. 
+ 
+Competitiveness – Productivity: Labor productivity for manufacturing decreased by 
+1.0 % between the second quarter of 2022 and the second quarter of 2023, as illustrated 
+in Figure 4.9. The five-year compound annual growth is -0.6 %. For U.S. manufacturing, 
+total factor productivity increased 3.6 % from 2020 to 2021 and has a 5-year compound 
+annual growth rate of 0.7 %, as illustrated in Figure 4.10. Productivity in the U.S. is 
+relatively high compared to other countries. As illustrated in Figure 4.11, the U.S. is 
+ranked ninth in output per hour among 142 countries using data from the Conference 
+Board. In recent years, productivity growth has been negative or has come to a plateau in 
+many countries and the U.S. seems to be following this pattern of slow growth. There are 
+competing explanations for why productivity has slowed, such as an aging population, 
+inequality, or other factors. A number of the explanations equate to low levels of capital 
+investment. It is also important to note that productivity is difficult to measure and even 
+more difficult to compare across countries. Moreover, the evidence does not seem to 
+support any particular explanation over another as to why productivity appears to have 
+stalled. 
+ 
+Competitiveness – Economic Environment: There is no agreed upon measure for 
+research, innovation, and other factors for doing business, but there are a number of 
+NIST AMS 600-13 
+November 2023 
+vi 
+common measures that are used. The ranking of the U.S. in these measures has mixed 
+results, ranking high in some and lower in others. For instance, the U.S. ranks 4th in 
+patent applications per million people but ranks 17th in researchers per capita and 24th in 
+journal article publications per capita. The IMD World Competitiveness Index, which 
+measures competitiveness for conducting business, ranked the U.S. 9th in competitiveness 
+for conducting business and the World Economic Forum, which assesses the 
+competitiveness in determining productivity, ranked the U.S. 2nd.  Note that neither of 
+these are specific to manufacturing, though. A third index specific to manufacturing, the 
+Deloitte Global Manufacturing Index, ranks China 1st and the U.S. 2nd. The Competitive 
+Industrial Performance Index, which measures capacity to produce and export 
+manufactured goods; technological deepening and upgrading; and world impact, ranked 
+the U.S. as 5th.  
+ 
+Domestic Specifics – Types of Goods Produced: The largest manufacturing subsector in 
+the U.S. is computer and electronic products followed by chemical manufacturing and 
+food, beverage, and tobacco products, as seen in Figure 2.12. Discrete technology 
+products accounted for 37 % of U.S. manufacturing. 
+ 
+Domestic Specifics – Economic Disruptions: From the pre-recession peak in the 4th 
+quarter of 2007 to the 1st quarter of 2009 manufacturing declined 17 percentage points. 
+Manufacturing didn’t return to its pre-recession level until 2017. During the recent 
+pandemic, manufacturing value added declined 17 percentage points between the third 
+quarter of 2019 and second quarter of 2020, but returned to similar levels within a year. 
+As of July 2023, employment was still 8.9 % below its 2005 level. As a result of the 
+pandemic, between January 2005 and January 2010, manufacturing employment declined 
+by 19.6 %, as seen in Figure 4.1.  
+ 
+Domestic Specifics – Manufacturing Supply Chain Costs:  High-cost supply chain 
+industries/activities, which might pose as opportunities for advancing competitiveness, 
+include various forms of energy production and/or transmission, various forms of 
+transportation, the management of companies and enterprises among other items listed in 
+Table 3.6.  
+ 
+Domestic Specifics – Manufacturing Safety, Compensation, and Profits: As illustrated 
+in Figure 4.5, employee compensation in manufacturing, which includes benefits, has had 
+a five-year compound annual growth of -1.0 %, but remains 6.3 % above total private 
+industry compensation. In May of 2018 the average hourly wages for the total private 
+sector exceeded that of manufacturing, which was not the case before that time. 
+Compensation in manufacturing, which includes benefits, still exceeds that of the total 
+private industry; however, the difference has narrowed significantly. In terms of safety in 
+manufacturing, fatalities, injuries, and the injury rate have generally trended downward 
+since 2002, as seen in Figure 4.2. However, there has been a slight uptick. Between 2020 
+and 2021, fatal occupational injuries increased 12.6 % and nonfatal injuries/illnesses 
+increased 3.2 %.   
+ 
+NIST AMS 600-13 
+November 2023 
+vii 
+For those that invest in manufacturing, corporate profits have had a five-year compound 
+annual growth of 10.4 %, as illustrated Figure 4.7, and nonfarm proprietors’ income for 
+manufacturing has had a five-year compound annual growth rate of -8.4 %, as illustrated 
+in Figure 4.8.  
+ 
+NIST AMS 600-13 
+November 2023 
+1 
+ 
+Introduction 
+ 
+Background  
+Public entities have a significant role in the U.S. innovation process.1 The federal 
+government has had a substantial impact in developing, supporting, and nurturing 
+numerous innovations and industries, including the Internet, telecommunications, 
+aerospace, semiconductors, computers, pharmaceuticals, and nuclear power among 
+others, many of which may not have come to fruition without public support.2 Although 
+the Defense Advanced Research Projects Agency (DARPA), Small Business Innovation 
+Research Program (SBIR), and Advanced Technology Program (ATP) have received 
+attention in the scholarly community, there is generally limited awareness of the 
+government’s role in U.S. innovation. The vastness and diversity of U.S. federal research 
+and development programs along with their changing nature make them difficult to 
+categorize and evaluate,3 but their impact is often significant. For instance, the origins of 
+Google are rooted in a public grant through the National Science Foundation.4, 5 One 
+objective of public innovation is to enhance economic security and improve our quality 
+of life6, which is achieved in part by advancing efficiency in which resources are 
+consumed or impacted by production. This includes decreasing inputs, which amount to 
+costs, and negative externalities (e.g., environmental impacts) while increasing output, 
+(i.e., the products produced), and the function of the product (e.g., the usefulness or 
+quality of the product), as seen in Figure 1.1. In pursuit of this goal, the National Institute 
+of Standards and Technology (NIST) has expended resources on a number of projects, 
+such as support for the development of the International Standard for the Exchange of 
+Product Model Data (STEP),7 which reduces the need for duplicative efforts such as re-
+entering design data.  
+ 
+ 
+ 
+ 
+1 Block, Fred L and Matthew R. Keller. State of Innovation: The U.S. Government’s Role in Technology Development. New York, 
+NY; Taylor & Francis; 2016. 
+2 Wessner CW and Wolff AW. Rising to the Challenge: U.S. Innovation Policy for the Global Economy. National Research Council 
+(US) Committee on Comparative National Innovation Policies: Best Practice for the 21st Century. Washington (DC): National 
+Academies Press (US). 2012. http://www.ncbi.nlm.nih.gov/books/NBK100307/ 
+3 Block, Fred L and Matthew R. Keller. State of Innovation: The U.S. Government's Role in Technology Development. New York, 
+NY; Taylor & Francis; 2016. 27. 
+4 National Science Foundation. (2004). “On the Origins of Google.” https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=100660 
+5 Block, Fred L and Matthew R. Keller. State of Innovation: The U.S. Government’s Role in Technology Development. New York, 
+NY; Taylor & Francis; 2016: 23.  
+6 National Institute of Standards and Technology. (2018). “NIST General Information.” 
+http://www.nist.gov/public_affairs/general_information.cfm 
+7 Robert D. Niehaus, Inc. (2014). Reassessing the Economic Impacts of the International Standard for the Exchange of Product Model 
+Data (STEP) on the U.S. Transportation Equipment Manufacturing Industry. November 26, 2014. Contract SB1341-12-CN-0084. 
+NIST AMS 600-13 
+November 2023 
+2 
+ 
+Figure 1.1: Illustration of Objectives – Drive Inputs and Negative Externalities Down while 
+Increasing Production Output and Product Function 
+ 
+Purpose of this Report 
+The purpose of this report is to characterize U.S. innovation and industrial 
+competitiveness in manufacturing, as it relates to the objectives illustrated in Figure 1.1. 
+It includes tracking domestic manufacturing activity and its supply chain in order to 
+develop a quantitative depiction of U.S. manufacturing in the context of the domestic 
+economy and global industry. There are five aspects that encapsulate the information 
+discussed in this report: 
+ 
+• Growth and Size: The size of the U.S. manufacturing industry and its growth rate 
+as compared to other countries reveals the relative competitiveness of the 
+industry. 
+o Metrics: Value added, value added per capita, assets, and compound 
+annual growth 
+ 
+• Productivity: It is necessary to use resources efficiently to have a competitive 
+manufacturing industry. Productivity is a major driver of the growth and size of 
+the industry. 
+o Metrics: Labor productivity index, total factor productivity index, output 
+per hour 
+ 
+• Economic Environment: A number of factors, including research, policies, and 
+societal trends, can affect the productivity and size of the industry.  
+NIST AMS 600-13 
+November 2023 
+3 
+o Metrics: Research and development expenditures as a percent of GDP, 
+journal articles per capita, researchers per capita, competitiveness indices, 
+inflation, patents 
+ 
+• Stakeholder Impact: Owners, employees, and other stakeholders invest their 
+resources into manufacturing with the purpose of receiving some benefit. The 
+costs and return that they receive can drive industry productivity and growth. 
+However, data is limited on this topic area. 
+o Metrics: Number of employees, compensation, safety incidents, profits, 
+exports, hours worked 
+ 
+• Areas for Advancement: It is important to identify areas of investment that have 
+the potential to have a high return, which can facilitate productivity and growth in 
+manufacturing. 
+o Metrics: High-cost supply chain components, country comparison indices 
+ 
+Currently, this annual report discusses items related to inputs for production and outputs 
+from production. It does not discuss negative externalities, the inputs that are used in the 
+function of a product (e.g., gasoline for an automobile), or the function of the product; 
+however, these items might be included in future reports.  
+ 
+Manufacturing metrics can be categorized by stakeholder, scale, and metric type (see  
+Figure 1.2). Stakeholders include the individuals that have an interest in manufacturing. 
+All the metrics in this report relate directly or indirectly to all or a selection of 
+stakeholders. The benefits for some stakeholders are costs for other stakeholders. For  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.2: Data Categorization for Examining the Economics of Manufacturing 
+ 
+Stakeholders 
+Owners 
+Employees 
+Consumers 
+Citizens 
+Scale 
+Indirect Measure 
+Direct Measure 
+Nominal 
+Normalized 
+Context: Compared 
+over time and/or 
+between 
+countries/industries 
+NIST AMS 600-13 
+November 2023 
+4 
+instance, the price of a product is a cost to the consumer but represents compensation and 
+profit for the producers. The scale indicates whether the metric is nominal (e.g., the total 
+U.S. manufacturing revenue) or is adjusted to a notionally common scale (e.g., revenue 
+per capita). The metric type distinguishes whether the metric measures manufacturing 
+activities directly (e.g., total employment) or measures those things that affect 
+manufacturing (e.g., research and development).  These metrics are then compared over 
+time and/or between industries to provide context to U.S. manufacturing activities. 
+ 
+Scope and Approach 
+There are numerous aspects one could examine in manufacturing. This report discusses a 
+subset of stakeholders and focuses on U.S. manufacturing. Among the many datasets 
+available, it utilizes those that are prominent and are consistent with economic standards. 
+These criteria are further discussed below. 
+ 
+Stakeholders: This report focuses on the employees and the owners/investors, as the data 
+available facilitates examining these entities. Future work may move toward examining 
+other stakeholders in manufacturing, such as the consumers and general public. 
+ 
+Geographic Scope: Many change agents are concerned with a certain group of people or 
+organizations. Since NIST is concerned with "U.S. innovation and competitiveness," this 
+report focuses on activities within national borders. In a world of globalization, this effort 
+is challenging, as some of the parts and materials being used in U.S.-based manufacturing 
+activities are imported. The imported values are a relatively small percentage of total 
+activity, but they are important in regard to a firm’s production. NIST, however, 
+promotes U.S. innovation and industrial competitiveness; therefore, consideration of 
+these imported goods and services are outside of the scope of this report. 
+ 
+Standard Data Categorization: Domestic data in the U.S. tends to be organized using 
+NAICS codes, which are the standard used by federal statistical agencies classifying 
+business establishments in the United States. NAICS was jointly developed by the U.S. 
+Economic Classification Policy Committee, Statistics Canada, and Mexico’s Instituto 
+Nacional de Estadística y Geografía, and was adopted in 1997. NAICS has several major 
+categories each with subcategories. Historic data and some organizations continue to use 
+the predecessor of NAICS, which is the Standard Industrial Classification system (SIC). 
+NAICS codes are categorized at varying levels of detail. The broadest level of detail is 
+the two-digit NAICS code, which has 20 categories. More detailed data is reported as the 
+number of digits increase; thus, three-digit NAICS provide more detail than the two-digit 
+and the four-digit provides more detail than the three-digit. The maximum is six digits. 
+Sometimes a two, three, four, or five-digit code is followed by zeros, which do not 
+represent categories. They are null or place holders. For example, the code 336000 
+represents NAICS 336. International data tends to be in the International Standard 
+Industrial Classification (ISIC) version 3.1, a revised United Nations system for 
+classifying economic data. Manufacturing is broken into 23 major categories (ISIC 15 
+through 37), with additional subcategorization. This data categorization works similar to 
+NAICS in that additional digits represent additional detail.  
+NIST AMS 600-13 
+November 2023 
+5 
+ 
+Data Sources: Thomas (2012) explores a number of data sources for examining U.S. 
+manufacturing activity.8 This report selects from sources that are the most prominent and 
+reveal the most information about the U.S. manufacturing industry. These data include 
+the United Nations Statistics Division’s National Accounts Main Aggregates Database 
+and the U.S. Census Bureau’s Annual Survey of Manufactures, among others. Because 
+the data sources are scattered across several resources, there are differences in what 
+yearly data is available for a particular category or topic.  In each case, the most-up-to-
+date and available information is provided for the relevant category. 
+ 
+Data Limitations: Like all collections of information, the data on manufacturing has 
+limitations. In general, there are 3 aspects to economic data of this type: 1) breadth of the 
+data, 2) depth of the data, and 3) the timeliness of the data. The breadth of the data refers 
+to the span of items covered, such as the number of countries and years. The depth of the 
+data refers to the number of detailed breakouts, such as value added, expenditures, and 
+industries. In general, breadth and depth are such that when the number of items in each 
+are multiplied together it equals the number of observations in the dataset for a particular 
+time period. For instance, if you have value added data on 5 industries for 20 countries 
+for a single year, then you would have 100 observations (i.e., 5 x 20 = 100). The 
+timeliness of the data refers to how recently the data was released. For instance, is the 
+data 1 year old or 5 years old at release. In general, data can perform well in 2 of these 3 
+criteria, but it is less common to perform well on all 3 due to feasibility of data collection 
+(see Figure 1.3). Moreover, in this report there is data that is very recent (timeliness) and 
+spans numerous subsectors (depth), but it only represents the United States. On the other 
+hand, there is data that spans multiple countries (breadth) and subsectors of 
+manufacturing (depth); however, this data is from several years ago. Fortunately, industry 
+level trends change slowly; thus, the data may not be from the most recent years, but it is 
+still representative. 
+ 
+ 
+ 
+8 Thomas, Douglas S. (2012). The Current State and Recent Trends of the U.S. Manufacturing Industry. NIST Special Publication 
+1142. http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1142.pdf 
+NIST AMS 600-13 
+November 2023 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.3: Illustration of the Feasibility of Data Collection and Availability 
+ 
+ 
+ 
+Timeliness 
+Older 
+Newer 
+Breadth 
+Deep 
+Shallow 
+Narrow 
+Broad 
+More Feasible 
+Less feasible 
+NIST AMS 600-13 
+November 2023 
+7 
+ 
+Value Added 
+ 
+Value added is the primary metric used to measure economic activity. It is defined as the 
+increase in the value of output at a given stage of production; that is, it is the value of 
+output minus the cost of inputs from other establishments.9 The primary elements that 
+remain after subtracting inputs is taxes, compensation to employees, and gross operating 
+surplus; thus, the sum of these also equal value added. Gross operating surplus is used to 
+calculate profit, which is gross operating surplus less the depreciation of capital such as 
+buildings and machinery. The sum of all value added for a country is that nation’s Gross 
+Domestic Product (GDP).  
+ 
+International Comparison  
+There are a number of sources of international estimates of value added for 
+manufacturing. The United Nations Statistics Division National Accounts Main 
+Aggregates Database has a wide-ranging dataset that covers a large number of countries 
+over a significant period of time. In 2021, there was $14.5 trillion of value added (i.e., 
+GDP) in global manufacturing in constant 2015 dollars, which is 17.5 % of the value 
+added by all industries ($82.7 trillion), according to the United Nations Statistics 
+Division. Since 1970, manufacturing ranged between 13.7 % and 17.5 % of global GDP. 
+The top 10 manufacturing countries accounted for $10.4 trillion or 71.7 % of global 
+manufacturing value added: China (30.9 %), United States (16.3 %), Japan (6.1 %), 
+Germany (4.9 %), South Korea (3.2 %), India (3.0 %), United Kingdom (2.2 %), Italy 
+(1.9 %), France (1.7 %), and Indonesia (1.5 %).10 
+ 
+As seen in Figure 2.1, U.S. compound real (i.e., controlling for inflation) annual growth 
+between 1996 and 2021 was 2.1 %, which places the U.S. below the 50th percentile. This 
+growth exceeded that of Germany, France, Canada, Japan, and Australia; however, it is 
+slower than that for the world (3.8 %) and that of many emerging economies. It is 
+important to note that emerging economies can employ idle or underutilized resources 
+and adopt technologies that are already proven in other nations to achieve high growth 
+rates. Developed countries are already utilizing resources and are employing advanced 
+technologies; thus, comparing U.S. growth to the high growth rates in China or India has 
+limited meaning. As seen in Figure 2.2, the compound annual growth for the U.S. 
+between 2016 and 2021 was 2.2 %. This puts the U.S. just above the 50th percentile 
+above Canada and Germany among others but still below the world growth of 2.9 %. 
+ 
+As seen in  Figure 2.3, among the 10 largest manufacturing nations, U.S. manufacturing 
+value added, as measured in constant 2015 dollars, is the second largest. In current  
+ 
+9 Dornbusch, Rudiger, Stanley Fischer, and Richard Startz. (2000). Macroeconomics. 8th ed. London, UK: McGraw-Hill. 
+10 United Nations Statistics Division. (2021). “National Accounts Main Aggregates Database.” 
+http://unstats.un.org/unsd/snaama/Introduction.asp 
+NIST AMS 600-13 
+November 2023 
+8 
+ 
+Figure 2.1: National 25-Year Compound Annual Growth, by Country (1996 to 2021): Higher is 
+Better 
+Data Source: United Nations Statistics Division. (2023). “National Accounts Main Aggregates Database.” 
+http://unstats.un.org/unsd/snaama/Introduction.asp 
+ 
+ 
+Figure 2.2: National 5-Year Compound Annual Growth, by Country (2016 to 2021): Higher is 
+Better 
+Data Source: United Nations Statistics Division. (2023). “National Accounts Main Aggregates Database.” 
+http://unstats.un.org/unsd/snaama/Introduction.asp 
+Italy, 0.1%
+Australia, 0.5%
+Japan, 0.6%
+Canada, 0.6%
+France, 1.1%
+Germany, 1.6%
+Mexico, 1.9%
+United Kingdom , 
+2.0%
+United States, 2.1%
+World, 3.8%
+India, 6.3%
+Ireland, 8.2%
+-10.0%
+-5.0%
+0.0%
+5.0%
+10.0%
+15.0%
+25th 
+Percentile
+50th 
+Percentile
+75th 
+Percentile
+100th 
+Percentile
+France, -0.5%
+Japan, -0.5%
+Canada, -0.1%
+Germany, -0.1%
+Italy, 0.5%
+Mexico, 0.6%
+Australia, 0.8%
+United States, 2.2%
+World, 2.9%
+United Kingdom , 
+3.3%
+India, 3.8%
+China (mainland), 
+5.7%
+Ireland, 12.2%
+-40.0%
+-30.0%
+-20.0%
+-10.0%
+0.0%
+10.0%
+20.0%
+30.0%
+25th 
+Percentile
+50th 
+Percentile
+75th 
+Percentile
+100th 
+Percentile
+NIST AMS 600-13 
+November 2023 
+9 
+ 
+ 
+ Figure 2.3: Manufacturing Value Added, Top 10 Manufacturing Countries (1970 to 2021) 
+ 
+dollars, the U.S. produced $2.4 trillion in manufacturing valued added while China 
+produced $4.5 trillion. As illustrated in Figure 2.4, U.S. manufacturing value added was 
+11.5 % of national GDP in 2021. In comparison, Germany’s manufacturing industry was 
+22.2 %, China was 28.4 %, and Japan was 20.6 % with the world average being 17.5 %. 
+Although the U.S. is below average, this can be somewhat deceiving, as 2021 U.S. GDP 
+per capita ($61 103) is significantly higher than both Japan ($34 603) and Germany 
+($38 217) along with most other countries, which makes the denominator 
+disproportionally larger when calculating the proportion of the economy that 
+manufacturing represents. Thus, a more meaningful measure might be manufacturing 
+GDP (i.e., value added) per capita. Among the ten largest manufacturing countries, the 
+U.S. has the 4th largest manufacturing value added per capita, as seen in Figure 2.5. Out 
+of all countries the U.S. ranks 14th, as seen in Figure 2.6. Since 1970, the U.S. ranking 
+has ranged between 11th and 16th. It is important to note that there are varying means for 
+adjusting data that can change the rankings slightly. The UNSD data uses market 
+exchange rates while others might use purchasing power parity (PPP) exchange rates. 
+PPP is the rate that a currency in one country would have to be converted to purchase the 
+same goods and services in another country. The drawback of PPP is that it is difficult to 
+measure and methodological questions have been raised about some surveys that collect  
+Indonesia
+France
+Italy
+United Kingdom
+India
+South Korea
+Germany
+Japan
+United States
+China (mainland)
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+1970
+1973
+1976
+1979
+1982
+1985
+1988
+1991
+1994
+1997
+2000
+2003
+2006
+2009
+2012
+2015
+2018
+$Billions 2015
+Data Source: United Nations Statistics Division. (2023). 
+“National Accounts Main Aggregates Database.” 
+http://unstats.un.org/unsd/snaama/Introduction.asp 
+ 
+NIST AMS 600-13 
+November 2023 
+10 
+ 
+Figure 2.4: Manufacturing's Share of National GDP 
+Data Source: United Nations Statistics Division. (2023). “National Accounts Main Aggregates Database.” 
+http://unstats.un.org/unsd/snaama/Introduction.asp 
+ 
+ 
+Figure 2.5: Manufacturing Value Added Per Capita, Top 10 Largest Manufacturing Countries 
+(1970 to 2021): Higher is Better 
+0.0%
+5.0%
+10.0%
+15.0%
+20.0%
+25.0%
+30.0%
+35.0%
+1970
+1973
+1976
+1979
+1982
+1985
+1988
+1991
+1994
+1997
+2000
+2003
+2006
+2009
+2012
+2015
+2018
+2021
+Manufacturing Share of National 
+GDP
+World
+United States
+Germany
+Japan
+China
+India
+Mexico
+China (mainland)
+France
+United Kingdom
+Italy
+United States
+Japan
+Germany
+South Korea
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+1970
+1974
+1978
+1982
+1986
+1990
+1994
+1998
+2002
+2006
+2010
+2014
+2018
+$2015 per Capita
+Data Source: United Nations Statistics Division. (2023). 
+“National Accounts Main Aggregates Database.” 
+http://unstats.un.org/unsd/snaama/Introduction.asp 
+NIST AMS 600-13 
+November 2023 
+11 
+data for these calculations.11 Market based rates tend to be relevant for internationally 
+traded goods;12 therefore, this report often utilizes these rates. 
+ 
+In terms of subsectors of manufacturing, the U.S. ranks 1st in 7 industries out of 16 total, 
+as seen in Figure 2.7 while China was the largest for the other industries. Since this data 
+covers multiple industries for multiple years (i.e., it has breadth and depth), it is a few 
+years old (i.e., 2015). Nonetheless, it likely provides a close representation, as national 
+activity generally moves slowly. 
+ 
+A more recent estimate of manufacturing value added by subsector and country is 
+provided in Figure 2.8, which provides estimates for 2020; however, the subsectors are 
+broader than those in Figure 2.7. Data for some countries was not available, however, 76 
+countries have data for all six subsectors. These countries represent 91.3 % of global 
+manufacturing. The data in Figure 2.8 shows the U.S. being the second largest country in 
+terms of valued added for every subsector except textiles and clothing, where it is the 
+fourth largest. China is the largest for all subsectors. 
+ 
+ 
+ 
+Figure 2.6: Manufacturing Per Capita Ranking, 1970-2021: Lower is Better 
+Data Source: United Nations Statistics Division. (2023). “National Accounts Main Aggregates Database.” 
+http://unstats.un.org/unsd/snaama/Introduction.asp 
+ 
+ 
+ 
+11 Callen, Tim. March. (2007). PPP Versus the Market: Which Weight Matters? Finance and Development. Vol 44 number 1. 
+http://www.imf.org/external/pubs/ft/fandd/2007/03/basics.htm 
+12 Ibid. 
+0
+5
+10
+15
+20
+25
+1970
+1972
+1974
+1976
+1978
+1980
+1982
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+Manufacturing GDP per Capita Ranking (Lower is 
+Better)
+Germany
+Japan
+United States
+NIST AMS 600-13 
+November 2023 
+12 
+  
+ 
+Figure 2.7: Global Manufacturing Value Added by Industry, Top Five Producers and Rest of 
+World (ROW) (2015) – 64 Countries 
+Source: OECD. (2020)  STAN Input-Output Tables. https://stats.oecd.org/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+Food, beverages and tobacco - US Rank: 2
+Chemicals and pharmaceuticals - US Rank: 1
+Computer, electronic and optical products - US Rank: 1
+Machinery and equipment, nec - US Rank: 2
+Motor vehicles, trailers and semi-trailers - US Rank: 1
+Basic metals - US Rank: 3
+Fabricated metal products - US Rank: 1
+Other; repair and installation  - US Rank: 2
+Textiles,  apparel, and leather  - US Rank: 4
+Coke and refined petroleum products - US Rank: 1
+Electrical equipment - US Rank: 3
+Rubber and plastic products - US Rank: 2
+Other non-metallic mineral products - US Rank: 2
+Paper products and printing - US Rank: 1
+Other transport equipment - US Rank: 1
+Wood and products of wood  - US Rank: 2
+$Billions
+ROW
+CAN: Canada
+TUR: Turkey
+FRA: France
+MEX: Mexico
+IDN: Indonesia
+RUS: Russian Federation
+TWN: Chinese Taipei
+ITA: Italy
+GBR: United Kingdom
+IND: India
+KOR: Korea
+DEU: Germany
+JPN: Japan
+CHN: China (People's Republic of)
+USA: United States
+NIST AMS 600-13 
+November 2023 
+13 
+ 
+Figure 2.8: Value Added by Major Sectors, Top 10 Largest Manufacturing Countries, 2020 
+Note: These values were estimated using the total manufacturing valued added from the United Nations Statistics Division multiplied 
+by the percent of manufacturing value added that each sector represents from the World Bank. 
+Note: Data for all six categories were available for 76 countries; thus, the estimates do not reflect total global production. The 
+countries with all six categories available represent 91.3 % of global manufacturing. 
+Note: China and U.S. percentages are the percent of the total of the countries with data available. 
+Sources: World Bank. 2023. World Development Indicators. https://data.worldbank.org/products/wdi.  
+United Nations Statistics Division. (2023). “National Accounts Main Aggregates Database.” 
+http://unstats.un.org/unsd/snaama/Introduction.asp 
+ 
+Domestic Details 
+There are two primary methods for adjusting value added for inflation. The first is using 
+chained dollars, which uses a changing selection of goods to adjust for inflation. The 
+second uses an unchanging selection of goods to adjust for inflation. 13 There has been 
+some dispute about the accuracy of each for some goods. This report presents value 
+added in chained dollars. Previous reports included both; however, the differences are 
+often minor.  
+ 
+13 Dornbusch, Rudiger, Stanley Fischer, and Richard Startz. (2000). Macroeconomics. 8th ed. London, UK: McGraw-Hill. 32. 
+0
+1000
+2000
+3000
+4000
+5000
+6000
+Textiles and clothing
+Chemicals
+Food, beverages and tobacco
+Machinery and transport equipment
+Medium and high-tech manufacturing
+Other manufacturing
+$Billion 
+Other
+Indonesia
+Mexico
+France
+Italy
+United Kingdom
+India
+Germany
+Japan
+United States
+China
+China
+U.S.
+60.1 %
+4.1 %
+26.6%
+24.3 %
+25.8 %
+22.7 %
+29.7 %
+18.5 %
+29.5 %
+19.1%
+34.6 %
+17.8 %
+NIST AMS 600-13 
+November 2023 
+14 
+ 
+Figure 2.9 shows the cumulative change in manufacturing, durable goods, and 
+nondurable goods manufacturing from 2005 forward. From the pre-recession peak in the 
+4th quarter of 2007 to the 1st quarter of 2009 manufacturing declined 17 percentage 
+points. Manufacturing didn’t return to its pre-recession level until 2017. During the recent 
+pandemic, manufacturing value added declined 17 percentage points between the third 
+quarter of 2019 and second quarter of 2020, but returned to similar levels within a year.  
+ 
+Manufacturing value added in the U.S. in 2022 was $2.3 trillion in chained 2012 dollars 
+or 11.4 % of GDP.14 Using chained dollars from the BEA shows that manufacturing 
+increased by 0.2 % between 2021 and 2022. Figure 2.10 and Figure 2.11 provide more 
+detailed data on durable and nondurable goods within the manufacturing industry. As 
+seen in Figure 2.10, long term growth in durable goods is largely driven by computer and 
+electronic products, which should be viewed with some caution, as there has been some 
+dispute regarding the price adjustments for this sector, which affects the measured 
+growth. Recall that, as of 2015, the U.S. was also the largest producer of computer and 
+electronic products. As seen in Figure 2.11, in 2022 only two of eight non-durable sectors 
+were above their 2008 value. The largest manufacturing subsector in the U.S. is computer 
+and electronic products followed by chemical manufacturing; food, beverage, and 
+tobacco products; and motor vehicles, trailers, and parts, as seen in Figure 2.12. Note that 
+this is based on chained dollars. Adjustments using other methods or the nominal value 
+can have slightly different results.  
+ 
+ 
+Figure 2.9: Cumulative Percent Change in Value Added (2012 Chained Dollars) 
+Bureau of Economic Analysis. (2023a). “Industry Economic Accounts Data.” 
+http://www.bea.gov/iTable/index_industry_gdpIndy.cfm 
+ 
+14 Bureau of Economic Analysis. (2021) “Industry Economic Accounts Data.” 
+http://www.bea.gov/iTable/index_industry_gdpIndy.cfm 
+-20.0%
+-10.0%
+0.0%
+10.0%
+20.0%
+30.0%
+40.0%
+50.0%
+60.0%
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Percent Change in Value Added
+Gross domestic product
+Manufacturing
+Durable goods
+Nondurable goods
+NIST AMS 600-13 
+November 2023 
+15 
+ 
+Figure 2.10: Value Added for Durable Goods by Type (billions of chained dollars), 2008-2022 
+Data Source: Bureau of Economic Analysis. (2023a) “Industry Economic Accounts Data.” 
+http://www.bea.gov/iTable/index_industry_gdpIndy.cfm 
+ 
+ 
+Figure 2.11: Value Added for Nondurable Goods by Type (billions of chained dollars), 2008-2022: 
+Higher is Better 
+Data Source: Bureau of Economic Analysis. (2023a) “Industry Economic Accounts Data.” 
+http://www.bea.gov/iTable/index_industry_gdpIndy.cfm 
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+            Miscellaneous manufacturing
+79
+81
+84
+82
+81
+79
+81
+78
+83
+86
+90
+89
+84
+95
+100
+            Furniture and related products
+31
+23
+23
+23
+22
+24
+26
+27
+28
+28
+29
+28
+26
+28
+26
+            Other transportation equipment
+124
+121
+124
+130
+127
+130
+133
+139
+137
+141
+146
+151
+132
+143
+157
+            Motor vehicles, trailers, and parts
+100
+43
+87
+110
+116
+121
+125
+123
+129
+134
+140
+141
+128
+170
+206
+            Elect. Equip., appliances, components
+61
+51
+53
+51
+52
+57
+54
+61
+57
+60
+62
+58
+55
+63
+57
+            Computer and electronic products
+196
+200
+227
+233
+241
+248
+261
+282
+291
+306
+337
+343
+350
+371
+360
+            Machinery
+147
+118
+132
+151
+153
+152
+150
+135
+124
+134
+142
+141
+130
+148
+150
+            Fabricated metal products
+151
+114
+126
+134
+138
+137
+140
+135
+131
+138
+142
+141
+127
+139
+140
+            Primary metals
+54
+50
+51
+57
+66
+70
+68
+75
+79
+70
+70
+77
+85
+76
+80
+            Nonmetallic mineral products
+47
+38
+39
+41
+43
+45
+46
+46
+46
+49
+49
+49
+48
+50
+48
+            Wood products
+25
+22
+23
+25
+26
+27
+24
+27
+28
+29
+28
+29
+30
+30
+28
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+Billions of Chained 2012 Dollars
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+            Plastics and rubber products
+65
+64
+68
+66
+68
+67
+67
+74
+75
+76
+79
+78
+74
+77
+70
+            Chemical products
+338
+326
+348
+325
+305
+314
+313
+302
+315
+312
+317
+331
+336
+335
+329
+            Petroleum and coal products
+272
+253
+213
+176
+159
+177
+196
+199
+171
+205
+229
+226
+146
+147
+136
+            Printing and related activities
+43
+37
+38
+39
+38
+39
+39
+38
+38
+38
+39
+38
+32
+34
+32
+            Paper products
+58
+61
+56
+54
+53
+54
+54
+55
+53
+49
+52
+53
+57
+57
+49
+            Apparel and leather products
+12
+10
+11
+11
+10
+10
+10
+9
+9
+9
+8
+8
+6
+8
+8
+            Textile mills, textile product mills
+22
+17
+17
+15
+16
+17
+18
+17
+18
+17
+16
+16
+15
+16
+16
+            Food, beverage, tobacco products
+242
+247
+234
+227
+220
+225
+225
+235
+228
+238
+242
+254
+254
+275
+285
+0
+200
+400
+600
+800
+1000
+1200
+Billions of Chained 2012 Dollars
+NIST AMS 600-13 
+November 2023 
+16 
+ 
+ 
+ 
+ 
+   
+Figure 2.12: Manufacturing Value Added by Subsector (billions of chained dollars), 2005-2022 
+Data Source: Bureau of Economic Analysis. (2023a) “Industry Economic Accounts Data.” 
+http://www.bea.gov/iTable/index_industry_gdpIndy.cfm 
+ 
+In addition to examining manufacturing value added, it is useful to examine the capital stock 
+in manufacturing, as it reflects the investment in machinery, buildings, and intellectual 
+property in the industry (see Figure 2.13, Figure 2.14, Figure 2.15, and Figure 2.16). 
+Discrete technology manufacturing (i.e., computer manufacturing, transportation equipment 
+manufacturing, machinery manufacturing, and electronics manufacturing) accounts for 30 % 
+of all manufacturing equipment and 33 % of structures. The 5-year compound annual growth 
+in computer and electronic manufacturing equipment is negative; however, structures is 
+growing at a rate of 2.4 %. Recall that in 2015, the U.S. was the largest producer of these 
+goods and, as of 2022, it is the largest subsector of U.S. manufacturing.  
+ 
+ 
+Apparel and leather and allied products: CAG5 -1%
+Textile mills and textile product mills: CAG5 -2.1%
+Wood products: CAG5 -0.8%
+Furniture and related products: CAG5 -1.4%
+Printing and related support activities: CAG5 -3.5%
+Nonmetallic mineral products: CAG5 -0.4%
+Paper products: CAG5 0.2%
+Electrical equipment, appliances, and components:…
+Primary metals: CAG5 2.6%
+Plastics and rubber products: CAG5 -1.5%
+Miscellaneous manufacturing: CAG5 2.9%
+Motor vehicles, bodies and trailers, and parts: CAG5…
+Fabricated metal products: CAG5 0.2%
+Machinery: CAG5 2.3%
+Other transportation equipment: CAG5 2.3%
+Petroleum and coal products: CAG5 -7.9%
+Food and beverage and tobacco products: CAG5 3.7%
+Chemical products: CAG5 1.1%
+Computer and electronic products: CAG5 3.3%
+0
+50
+100
+150
+200
+250
+300
+350
+400
+2005
+2008
+2011
+2014
+2017
+2020
+NOTE: CAG5 = 5-year compound annual growth 
+rate (Calculated using BEA data) 
+NOTE: Colors in each figure correspond. For 
+instance, food/beverage is colored purple in both 
+figures 
+Food and 
+Beverage
+12%
+Process
+24%
+Discrete 
+23%
+Discrete 
+Tech
+41%
+2022
+NIST AMS 600-13 
+November 2023 
+17 
+ 
+ 
+ 
+ 
+Figure 2.13: Current-Cost Net Stock: Private Equipment, Manufacturing (2005-2021) 
+NOTE: CAG5 = 5-year compound annual growth rate (Calculated using BEA data) 
+NOTE: Colors in each figure correspond. For instance, food/beverage is colored purple in both figures 
+Adjusted using the Consumer Price Index from the Bureau of Labor Statistics 
+Data Source: Bureau of Economic Analysis. (2023b) “Fixed Assets Accounts Tables.” 
+https://apps.bea.gov/iTable/iTable.cfm?ReqID=10&step=2 
+Apparel and leather and allied products: CAG5 -5%
+Furniture and related products: CAG5 3.5%
+Textile mills and textile product mills: CAG5 -2%
+Printing and related support activities: CAG5 -2.9%
+Wood products: CAG5 2.1%
+Electrical equipment, appliances, and components: CAG5 0.5%
+Miscellaneous manufacturing: CAG5 -1.2%
+Nonmetallic mineral products: CAG5 -0.4%
+Other transportation equipment: CAG5 4.6%
+Plastics and rubber products: CAG5 2%
+Paper products: CAG5 -0.1%
+Primary metals: CAG5 1.1%
+Machinery: CAG5 -0.1%
+Petroleum and coal products: CAG5 -0.5%
+Fabricated metal products: CAG5 0.8%
+Motor vehicles, bodies and trailers, and parts: CAG5 -1%
+Computer and electronic products: CAG5 -1.9%
+Food and beverage and tobacco products: CAG5 2%
+Chemical products: CAG5 1%
+0
+50
+100
+150
+200
+250
+2005
+2008
+2011
+2014
+2017
+2020
+$Billion 2021
+Food and 
+Beverage
+13%
+Discrete
+28%
+Discrete 
+Tech
+30%
+Process
+29%
+2021
+NIST AMS 600-13 
+November 2023 
+18 
+  
+ 
+ 
+ 
+Figure 2.14: Current-Cost Net Stock: Private Structures, Manufacturing (2005-2021) 
+NOTE: CAG5 = 5-year compound annual growth rate (Calculated using BEA data) 
+NOTE: Colors in each figure correspond. For instance, food/beverage is colored purple in both figures 
+Adjusted using the Consumer Price Index from the Bureau of Labor Statistics 
+Data Source: Bureau of Economic Analysis. (2023b) “Fixed Assets Accounts Tables.” 
+https://apps.bea.gov/iTable/iTable.cfm?ReqID=10&step=2 
+Apparel and leather and allied products: CAG5 1%
+Furniture and related products: CAG5 3.2%
+Printing and related support activities: CAG5 2.2%
+Textile mills and textile product mills: CAG5 1.4%
+Wood products: CAG5 3.7%
+Electrical equipment, appliances, and components: CAG5 2.2%
+Miscellaneous manufacturing: CAG5 3.2%
+Nonmetallic mineral products: CAG5 3%
+Plastics and rubber products: CAG5 4.8%
+Paper products: CAG5 3.2%
+Other transportation equipment: CAG5 3.5%
+Fabricated metal products: CAG5 3.9%
+Primary metals: CAG5 3.2%
+Motor vehicles, bodies and trailers, and parts: CAG5 4.5%
+Machinery: CAG5 3.4%
+Petroleum and coal products: CAG5 3.1%
+Food and beverage and tobacco products: CAG5 4.2%
+Computer and electronic products: CAG5 2.4%
+Chemical products: CAG5 4.5%
+0
+50
+100
+150
+200
+250
+Food and 
+Beverage
+13%
+Discrete
+26%
+Discrete 
+Tech
+33%
+Process
+28%
+2021
+NIST AMS 600-13 
+November 2023 
+19 
+ 
+ 
+ 
+Figure 2.15: Current-Cost Net Stock: Intellectual Property Products, Manufacturing (2005-2021) 
+NOTE: CAG5 = 5-year compound annual growth rate (Calculated using BEA data) 
+NOTE: Colors in each figure correspond. For instance, food/beverage is colored blue in both figures 
+Adjusted using the Consumer Price Index from the Bureau of Labor Statistics 
+Data Source: Bureau of Economic Analysis. (2023b) “Fixed Assets Accounts Tables.” 
+https://apps.bea.gov/iTable/iTable.cfm?ReqID=10&step=2 
+ 
+Wood products: CAG5 2.6%
+Apparel and leather and allied products: CAG5 3%
+Textile mills and textile product mills: CAG5 2.9%
+Furniture and related products: CAG5 5.1%
+Printing and related support activities: CAG5 0.2%
+Paper products: CAG5 3.9%
+Plastics and rubber products: CAG5 3.4%
+Primary metals: CAG5 3.8%
+Nonmetallic mineral products: CAG5 3.8%
+Fabricated metal products: CAG5 3.6%
+Electrical equipment, appliances, and components: CAG5 3.5%
+Food and beverage and tobacco products: CAG5 3.5%
+Miscellaneous manufacturing: CAG5 3.5%
+Petroleum and coal products: CAG5 3.4%
+Motor vehicles, bodies and trailers, and parts: CAG5 3.8%
+Other transportation equipment: CAG5 0.2%
+Machinery: CAG5 3.6%
+Computer and electronic products: CAG5 2.2%
+Chemical products: CAG5 5.3%
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+2005
+2008
+2011
+2014
+2017
+2020
+Food and 
+Beverage
+2%
+Discrete
+9%
+Discrete 
+Tech
+34%
+Process
+55%
+2021
+NIST AMS 600-13 
+November 2023 
+20 
+ 
+ 
+ 
+ 
+ 
+Figure 2.16: Current-Cost Net Stock in Manufacturing, by Type (2005-2021) 
+Adjusted using the Consumer Price Index from the Bureau of Labor Statistics 
+Data Source: Bureau of Economic Analysis. (2023b) “Fixed Assets Accounts Tables.” 
+https://apps.bea.gov/iTable/iTable.cfm?ReqID=10&step=2 
+ 
+ 
+0
+1000
+2000
+3000
+4000
+5000
+6000
+$Billion 2021
+Intellectual Property
+Structures
+Equipment
+NIST AMS 600-13 
+November 2023 
+21 
+ 
+US Manufacturing Supply Chain 
+There are many suppliers of goods and services that have a stake in manufacturing; these 
+include resellers, providers of transportation and warehousing, raw material suppliers, 
+suppliers of intermediate goods, and suppliers of professional services. Using data from the 
+Annual Survey of Manufactures,15  Table 3.1 presents and Figure 3.1 maps the purchases 
+that the manufacturing industry made for production, which is disaggregated into five  
+ 
+Table 3.1: Supply Chain Entities and Contributions, Annual Survey of Manufactures, 2021 
+  
+2021 
+  
+($Billions 
+2021) 
+I. Services, Computer Hardware, Software, and Other Expenditures 
+  
+a. Communication Services 
+5.5 
+b. Computer Hardware, Software, and Other Equipment 
+12.3 
+c. Professional, Technical, and Data Services 
+42.7 
+d. Other Expenditures 
+282.9 
+e. TOTAL 
+343.4 
+  
+  
+II. Refuse Removal Expenditures 
+15.6 
+  
+  
+III. Machinery, Structures, and Compensation Expenditures 
+  
+a. Payroll, Benefits, and Employment 
+945.3 
+b. Capital Expenditures: Structures (including rental)  
+67.9 
+c. Capital Expenditures: Machinery/Equipment (including rental) 
+149.2 
+d. TOTAL 
+1162.4 
+  
+  
+IV. Suppliers of Materials Expenditures 
+  
+a. Materials, Parts, Containers, Packaging, etc… Used 
+3073.6 
+b. Contract Work and Resales 
+178.3 
+c. Purchased Fuels and Electricity 
+89.2 
+d. TOTAL 
+3341.2 
+  
+  
+V. Maintenance and Repair Expenditures 
+58.6 
+  
+  
+VI. Shipments 
+  
+a. Expenditures 
+4921.2 
+b. Net Inventories Shipped 
+-71.8 
+c. Depreciation 
+194.1 
+d. Net Income 
+1036.1 
+E. TOTAL  
+6079.6 
+  
+  
+VII. Value Added estimates 
+  
+a. Value added calculated VI.E-VI.b-VI.A+III.a 
+2175.6 
+b. ASM Value added 
+2789.5 
+c. BEA value added 
+2496.8 
+ 
+Note: Colors correspond with those in Figure 3.1 
+Source: U.S. Census Bureau. (2023).
+ 
+15 U.S. Census Bureau. (2022). “Annual Survey of Manufactures.” https://www.census.gov/programs-surveys/asm/data/tables.html 
+NIST AMS 600-13 
+November 2023 
+22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.1: Manufacturing Supply Chain, 2021 
+Data Source: U.S. Census Bureau. (2023). “Annual Survey of Manufactures.” 
+https://www.census.gov/programs-surveys/asm/data/tables.htmll 
+NIST AMS 600-13 
+November 2023 
+23 
+categories: suppliers of services, computer hardware, software, and other costs (blue); 
+refuse removal (gold); machinery, structures, and compensation (orange); repair of the 
+machinery and structures (red); and suppliers of materials (green). These items all feed 
+into the design and production of manufactured goods which are inventoried and/or 
+shipped (gray). The depreciation of capital and net income is also included in Figure 3.1, 
+which affects the market value of shipments. In addition to the stakeholders, there are 
+also public vested interests, the end users, and financial service providers to be 
+considered. 
+ 
+Direct and Indirect Manufacturing: As previously mentioned, to achieve economy-wide 
+efficiency improvements, researchers have suggested that “the supply chain must become 
+the focus of policy management, in contrast to the traditional emphasis on single 
+technologies/industries.” 16 As seen in Table 3.2, there is an estimated $1939 billion in 
+manufacturing value added with an additional $2339 billion in indirect value added from 
+other industries for manufacturing, as calculated using input-output analysis.17 Direct and 
+indirect manufacturing accounts for 24.1 % of total GDP.  
+ 
+In 2021, the U.S. imported approximately 20.4 % of its intermediate goods, as seen in  
+Table 3.3. As a proportion of output and imports (i.e., a proportion of the total inputs), 
+intermediate imports represented 12.4 %. As can be seen in Table 3.3, these proportions 
+have not changed dramatically in recent years. As seen in Table 3.4, Canada is the 
+primary source of imported supply chain items for the U.S. with China being second. 
+ 
+Many of the direct costs are caused by losses due to waste or defects. Unfortunately, 
+there is limited data and information on these losses. The research that does exist is often 
+case studies within various industries and countries, which provide only limited insight to  
+ 
+Table 3.2: Direct and Indirect Manufacturing Value Added  
+  
+  
+Value Added ($ Billion 2019) 
+NAICS 
+Description 
+Direct 
+Indirect 
+Total 
+  
+TOTAL U.S. GDP 
+  
+  
+17 775 
+31-33 
+Total Manufacturing* 
+1 939 
+2 339 
+4 278 
+333-336 
+Discrete Technology Products 
+676 
+680 
+1 356 
+313-323, 327-332, 337-339 
+Discrete Products 
+489 
+581 
+1 070 
+324-326 
+Process Products 
+534 
+1 077 
+1 611 
+311-312 
+Food, Beverage, and Tabaco 
+240 
+629 
+869 
+* The sum of the 3 digit NAICS does not equal total manufacturing due to overlap in supply chains. 
+Source: Thomas, Douglas. (2020). Manufacturing Cost Guide. https://www.nist.gov/services-resources/software/manufacturing-cost-
+guide 
+Note: These values are calculated by taking 2012 data and adjusting it to 2019; thus, they may not match other estimates in this report. 
+ 
+16 Tassey Gregory. (2010) “Rationales and Mechanisms for Revitalizing U.S. Manufacturing R&D Strategies.” Journal of Technology 
+Transfer. 35. 283-333. 
+17 This analysis uses the Manufacturing Cost Guide. https://www.nist.gov/services-resources/software/manufacturing-cost-guide 
+NIST AMS 600-13 
+November 2023 
+24 
+ 
+Table 3.3: Imported Intermediate Manufacturing ($millions) 
+Year 
+Intermediate 
+Manufacturing* 
+Intermediate 
+Imports for 
+Manufacturing** 
+Total 
+Manufacturing 
+Output 
+Intermediate 
+Imports as a 
+Percent of 
+Intermediates  
+Intermediate 
+imports as a 
+Percent of Total 
+Industry Output 
+2006 
+3 299 062 
+697 789 
+5 073 606 
+21.2% 
+13.8% 
+2007 
+3 557 606 
+729 968 
+5 384 729 
+20.5% 
+13.6% 
+2008 
+3 690 928 
+841 311 
+5 473 777 
+22.8% 
+15.4% 
+2009 
+2 809 726 
+538 090 
+4 484 832 
+19.2% 
+12.0% 
+2010 
+3 219 052 
+673 484 
+4 991 727 
+20.9% 
+13.5% 
+2011 
+3 721 021 
+841 681 
+5 564 423 
+22.6% 
+15.1% 
+2012 
+3 838 013 
+839 127 
+5 742 330 
+21.9% 
+14.6% 
+2013 
+3 942 929 
+818 937 
+5 906 561 
+20.8% 
+13.9% 
+2014 
+3 972 514 
+827 537 
+5 992 760 
+20.8% 
+13.8% 
+2015 
+3 572 474 
+694 664 
+5 670 789 
+19.4% 
+12.2% 
+2016 
+3 440 157 
+641 801 
+5 513 136 
+18.7% 
+11.6% 
+2017 
+3 533 815 
+681 409 
+5 701 973 
+19.3% 
+12.0% 
+2018 
+3 782 706 
+748 939 
+6 086 825 
+19.8% 
+12.3% 
+2019 
+3 686 526 
+695 876 
+6 025 842 
+18.9% 
+11.5% 
+2020 
+3 259 481 
+593 649 
+5 473 588 
+18.2% 
+10.8% 
+2021 
+3 821 920 
+778 621 
+6 289 922 
+20.4% 
+12.4% 
+ 
+Source Data: Bureau of Economic Analysis. (2023c). Input-Output Accounts Data. https://www.bea.gov/industry/input-output-
+accounts-data 
+* Commodities used by industries 
+** From the import matrix 
+ 
+U.S. national trends. Tabikh estimates from survey data in Sweden that the percent of 
+planned production time that is downtime amounts to 13.3 %.18 According to NIST’s 
+Manufacturing Cost Guide, downtime amounts to 8.3 % of planned production time and 
+amounts to $245 billion for discrete manufacturing (i.e., NAICS 321-339 excluding 
+NAICS 324 and 325).19 In addition to downtime, defects result in additional losses. The 
+Manufacturing Cost Guide estimates that defects amount to between $32.0 billion and 
+$58.6 billion for discrete manufacturing (i.e., NAICS 321-339 excluding NAICS 324 and 
+325), depending on the method used for estimation.20  
+ 
+The USGS estimates that 15 % of steel mill products end up as scrap in the 
+manufacturing process.21 Other sources cite that at least 25 % of liquid steel and 40 % of 
+liquid aluminum does not make it into a finished product due primarily to metal quality  
+ 
+18 Tabikh, Mohamad. (2014). "Downtime Cost and Reduction Analysis: Survey Results." Master Thesis. KPP321. Mälardalen 
+University. http://www.diva-portal.org/smash/get/diva2:757534/FULLTEXT01.pdf 
+19 Thomas, Douglas. (2020). Manufacturing Cost Guide. https://www.nist.gov/services-resources/software/manufacturing-cost-guide 
+20 Thomas, Douglas. (2020). Manufacturing Cost Guide. https://www.nist.gov/services-resources/software/manufacturing-cost-guide 
+21 Fenton, M. D. (2001) “Iron and Steel Recycling in the United States in 1998.” Report 01-224. U.S. Geological Survey: 3. 
+https://pubs.usgs.gov/of/2001/of01-224/ 
+NIST AMS 600-13 
+November 2023 
+25 
+Table 3.4: Percent of U.S. Manufacturing Industry Supply Chain, by Country of Origin (2014) 
+ 
+Country 
+US 
+Manufacturing 
+Supply Chain 
+(percent) 
+USA 
+83.0 
+CAN 
+3.1 
+CHN 
+1.8 
+MEX 
+1.5 
+DEU 
+0.8 
+JPN 
+0.8 
+GBR 
+0.5 
+KOR 
+0.5 
+RUS 
+0.4 
+ROW 
+7.6 
+Source: Thomas, Douglas. (2020). Manufacturing Cost Guide. https://www.nist.gov/services-resources/software/manufacturing-cost-
+guide 
+ 
+(25 % of steel loss and 40 % of aluminum loss), the shape produced22 (10 % to 15 % of 
+loss), and defects in the manufacturing processes (5 % of loss).23 Material losses mean 
+there is the possibility of producing the same goods using less material, which could have 
+rippling effects up and down the supply chain. There would be reductions in the burden 
+of transportation, material handling, machinery, inventory costs, and energy use along 
+with many other activities associated with handling and altering materials.  
+ 
+Another source of losses can be found in cybercrime where criminals can disrupt 
+production and/or steal intellectual property. The Manufacturing Cost Guide estimates 
+that manufacturers lost between $8.9 billion and $38.6 billion due to cybercrime.  
+ 
+Manufacturing costs also accumulate in assets such as buildings, machinery, and 
+inventory. In addition to the estimates provided in Figure 2.13, Figure 2.14, Figure 2.15, 
+and Figure 2.16, data on assets is published periodically in the Economic Census. As seen 
+in Table 3.5, total depreciable assets amount to $3.4 trillion with $2.7 trillion being 
+machinery and equipment.  
+ 
+ 
+22 The steel and aluminum industry often produce standard shapes rather than customized shapes tailored to specific products. This 
+results in needing to cut away some portion of material, which ends up as scrap. 
+23 Allwood, J. M. & Cullen, J. M. (2012). Sustainable Materials with Both Eyes Open. Cambridge Ltd. 185. 
+http://www.withbotheyesopen.com/ 
+NIST AMS 600-13 
+November 2023 
+26 
+Table 3.5: Depreciable Assets and the Rate of Change, 2017 ($million 2017) 
+  
+Buildings and 
+Structures 
+Machinery 
+and 
+Equipment 
+Total 
+Gross value of depreciable assets (acquisition costs), beginning of year  
+661 841* 
+2 645 636* 
+3 307 476 
+Capital Expenditures (added to assets) 
+33 705 
+134 733 
+168 438 
+Retirements (subtracted from assets) 
+11 597* 
+46 358* 
+57 955 
+Gross value of depreciable assets (acquisition costs, end of year)  
+683 949 
+2 734 011 
+3 417 960 
+Percent of depreciable assets that are new (end of year) 
+  
+  
+4.9% 
+* Assumes that the proportions of buildings and structures or machinery and equipment are the same as that for capital 
+expenditures.  
+Source: U.S. Census Bureau. (2020) 2017 Economic Census. https://www.census.gov/data/tables/2017/econ/economic-census/naics-
+sector-31-33.html 
+ 
+ 
+A frequently invoked axiom suggests that roughly 80 % of a problem is due to 20 % of 
+the cause, a phenomenon referred to as the Pareto principle. 24 That is, a small portion of 
+the cause accounts for a large portion of the problem. Joseph Juran proposed that the 
+Pareto principle could be applied to an organization’s operations.25 For instance, 80 % of 
+defects would be the result of 20 % of the causes. Identifying that small portion of the 
+cause (i.e., the 20 %) can facilitate making large efficiency improvements in operations. 
+Manufacturing industry NAICS codes are categories of production activities. A larger 
+industry (i.e., one in the top 20 %) suggests that there is more of a particular type of 
+activity and/or the activities are more costly; thus, an increase in productivity in a larger 
+industry would either reduce a costly activity or reduce an activity that occurs at high 
+frequency. The result is a greater impact than might otherwise be achieved. Additionally, 
+statistical evidence suggests that a dollar of research and development in a large cost 
+supply chain entity has a higher return on investment than a small cost one.26 Table 3.6 
+provides a list of the top 20 % of domestic supply chain industries for U.S. manufacturing 
+by value added. Various forms of energy production and/or transmission appear in the top 
+20 %. Various forms of transportation are also present along with the management of 
+companies and enterprises. Table 3.7 provides compensation by occupation and 
+management occupations is the 2nd largest.  
+ 
+ 
+ 
+ 
+24 Hopp, Wallace J. and Mark L. Spearman. (2008). Factory Physics. Third Edition. (Waveland Press, Long Grove, IL.  
+25 Six Sigma Daily. “Remembering Joseph Juran And His Lasting Impact on Quality Improvement.” 
+https://www.sixsigmadaily.com/remembering-joseph-juran-quality-improvement/ 
+26 Thomas, Douglas. (2018). "The Effect of Flow Time on Productivity and Production." National Institute of Standards and 
+Technology. Advanced Manufacturing Series 100-25. https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-25.pdf 
+NIST AMS 600-13 
+November 2023 
+27 
+Table 3.6: Top 20 % of Domestic Supply Chain Entities, Value Added  
+Code 
+Industry Description 
+$Billion 
+2019 
+  
+Code 
+Industry Description 
+$Billion 
+2019 
+324110 
+Petroleum refineries 
+596.1 
+  
+482000 
+Rail transportation 
+26.6 
+211000 
+Oil and gas extraction 
+516.1 
+  
+325180 
+Other Basic Inorganic Chemical Manufacturing 
+26.0 
+550000 
+Management of companies and enterprises 
+128.5 
+  
+112A00 
+Animal production, except cattle and poultry and eggs 
+26.0 
+325412 
+Pharmaceutical preparation manufacturing 
+83.0 
+  
+336390 
+Other Motor Vehicle Parts Manufacturing 
+25.8 
+336112 
+Light truck and utility vehicle manufacturing 
+78.5 
+  
+339112 
+Surgical and medical instrument manufacturing 
+25.7 
+424A00 
+Other nondurable goods merchant wholesalers 
+77.5 
+  
+533000 
+Lessors of nonfinancial intangible assets 
+25.3 
+336411 
+Aircraft manufacturing 
+76.6 
+  
+334510 
+Electromedical and electrotherapeutic apparatus manufacturing 
+24.7 
+423A00 
+Other durable goods merchant wholesalers 
+68.9 
+  
+522A00 
+Nondepository credit intermediation and related activities 
+24.7 
+221100 
+Electric power generation, transmission, and distribution 
+63.4 
+  
+322120 
+Paper mills 
+24.6 
+331110 
+Iron and steel mills and ferroalloy manufacturing 
+59.8 
+  
+3259A0 
+All other chemical product and preparation manufacturing 
+24.4 
+325110 
+Petrochemical manufacturing 
+57.2 
+  
+5241XX 
+Insurance carriers, except direct life 
+24.1 
+484000 
+Truck transportation 
+56.7 
+  
+1111A0 
+Oilseed farming 
+24.0 
+531ORE 
+Other real estate 
+55.3 
+  
+486000 
+Pipeline transportation 
+23.9 
+325190 
+Other basic organic chemical manufacturing 
+54.9 
+  
+541200 
+Accounting, tax preparation, bookkeeping, and payroll services 
+23.7 
+312200 
+Tobacco product manufacturing 
+48.7 
+  
+21311A 
+Other support activities for mining 
+23.3 
+336412 
+Aircraft engine and engine parts manufacturing 
+48.6 
+  
+311810 
+Bread and bakery product manufacturing 
+22.5 
+334413 
+Semiconductor and related device manufacturing 
+48.1 
+  
+333120 
+Construction machinery manufacturing 
+22.4 
+334511 
+Search, detection, and navigation instruments manufacturing 
+42.7 
+  
+561700 
+Services to buildings and dwellings 
+22.1 
+326190 
+Other plastics product manufacturing 
+42.6 
+  
+230301 
+Nonresidential maintenance and repair 
+21.4 
+323110 
+Printing 
+41.8 
+  
+322210 
+Paperboard container manufacturing 
+21.4 
+52A000 
+Monetary authorities and depository credit intermediation 
+38.7 
+  
+339113 
+Surgical appliance and supplies manufacturing 
+21.3 
+424700 
+Petroleum and petroleum products 
+37.5 
+  
+332310 
+Plate work and fabricated structural product manufacturing 
+21.2 
+325211 
+Plastics material and resin manufacturing 
+36.9 
+  
+33291A 
+Valve and fittings other than plumbing 
+20.8 
+1111B0 
+Grain farming 
+36.3 
+  
+423600 
+Household appliances and electrical and electronic goods  
+20.3 
+1121A0 
+Cattle ranching and farming 
+34.4 
+  
+333415 
+Air conditioning, refrigeration, and warm air heating equipment 
+20.1 
+423800 
+Machinery, equipment, and supplies 
+33.1 
+  
+331200 
+Steel product manufacturing from purchased steel 
+19.6 
+334220 
+Broadcast and wireless communications equipment 
+31.1 
+  
+325620 
+Toilet preparation manufacturing 
+19.6 
+561300 
+Employment services 
+31.0 
+  
+333130 
+Mining and oil and gas field machinery manufacturing 
+19.4 
+336111 
+Automobile manufacturing 
+30.1 
+  
+524200 
+Insurance agencies, brokerages, and related activities 
+19.2 
+541300 
+Architectural, engineering, and related services 
+29.4 
+  
+332320 
+Ornamental and architectural metal products manufacturing 
+19.1 
+325610 
+Soap and cleaning compound manufacturing 
+29.0 
+  
+333111 
+Farm machinery and equipment manufacturing 
+19.1 
+424400 
+Grocery and related product wholesalers  
+28.6 
+  
+33441A 
+Other electronic component manufacturing 
+19.0 
+336413 
+Other aircraft parts and auxiliary equipment manufacturing 
+28.5 
+  
+326110 
+Plastics packaging materials and unlaminated film and sheet manufacturing 
+18.9 
+325310 
+Fertilizer manufacturing 
+28.5 
+  
+332800 
+Coating, engraving, heat treating and allied activities 
+18.5 
+325414 
+Biological product (except diagnostic) manufacturing 
+28.4 
+  
+331490 
+Nonferrous metal (except copper and aluminum)  
+18.1 
+541100 
+Legal services 
+28.4 
+  
+423100 
+Motor vehicle and motor vehicle parts and supplies 
+18.1 
+332710 
+Machine shops 
+28.1 
+  
+541610 
+Management consulting services 
+17.8 
+31161A 
+Animal (except poultry) slaughtering, rendering, and processing 
+28.1 
+  
+5419A0 
+All other miscellaneous professional, scientific, and technical services  
+17.7 
+Note: Calculated using the NIST Manufacturing Cost Guide. https://www.nist.gov/services-
+resources/software/manufacturing-cost-guide. 
+NIST AMS 600-13 
+November 2023 
+1 
+ 
+Table 3.7: Total Domestic Compensation for Manufacturing and its Supply Chain, by Occupation 
+SOC Code 
+Description 
+$2019 Billion 
+000000 
+All Occupations 
+1822.7 
+510000 
+Production Occupations 
+433.2 
+110000 
+Management Occupations 
+277.2 
+430000 
+Office and Administrative Support Occupations 
+180.7 
+530000 
+Transportation and Material Moving Occupations 
+144.9 
+130000 
+Business and Financial Operations Occupations 
+144.3 
+170000 
+Architecture and Engineering Occupations 
+141.8 
+410000 
+Sales and Related Occupations 
+117.9 
+150000 
+Computer and Mathematical Occupations 
+103.7 
+490000 
+Installation, Maintenance, and Repair Occupations 
+101.3 
+470000 
+Construction and Extraction Occupations 
+43.6 
+190000 
+Life, Physical, and Social Science Occupations 
+24.9 
+270000 
+Arts, Design, Entertainment, Sports, and Media Occupations 
+18.9 
+230000 
+Legal Occupations 
+18.7 
+450000 
+Farming, Fishing, and Forestry Occupations 
+16.6 
+370000 
+Building and Grounds Cleaning and Maintenance Occupations 
+16.2 
+290000 
+Healthcare Practitioners and Technical Occupations 
+11.3 
+350000 
+Food Preparation and Serving Related Occupations 
+11.1 
+330000 
+Protective Service Occupations 
+6.8 
+390000 
+Personal Care and Service Occupations 
+2.5 
+250000 
+Education, Training, and Library Occupations 
+1.6 
+310000 
+Healthcare Support Occupations 
+1.3 
+210000 
+Community and Social Service Occupations 
+1 
+  
+TOTAL 
+3642.3 
+ 
+ 
+ 
+ 
+Source: Thomas, Douglas. (2020). Manufacturing Cost Guide. https://www.nist.gov/services-
+resources/software/manufacturing-cost-guide 
+NIST AMS 600-13 
+November 2023 
+2 
+ 
+ 
+Employment, Compensation, Profits, and Productivity 
+ 
+The Annual Survey of Manufactures estimates that there were 11.2 million employees in the 
+manufacturing industry in 2021, which is the most recent data available (see Table 4.1). The 
+Current Population Survey estimates that there were 15.2 million manufacturing employees in 
+2022 and the Current Employment Statistics estimates 12.8 million employees in 2022, the most 
+recent data available (see Table 4.2 and Table 4.3). According to data in Table 4.2, 
+manufacturing accounted for 9.6 % of total employment. Each of these estimates has its own 
+method for how the data was acquired and its own definition of employment. The Current 
+Population Survey considers an employed person to be any individual who did any work for pay 
+or profit during the survey reference week or were absent from their job because they were ill, on 
+vacation, or taking leave for some other reason. It also includes individuals who completed at 
+least 15 hours of unpaid work in a family-owned enterprise operated by someone in their 
+household. In contrast, the Current Employment Statistics specifically exclude proprietors, self-
+employed, and unpaid family or volunteer workers. Therefore, the estimates from the Current 
+Employment Statistics are lower than the Current Population Survey estimates. Additionally, the 
+Current Employment Statistics include temporary and intermittent employees. The Annual 
+Survey of Manufactures considers an employee to include all  
+ 
+Table 4.1: Employment, Annual Survey of Manufactures 
+ 
+NAICS 
+Description 
+2020 
+2021 
+311 
+Food manufacturing 
+1 509 076 
+1 509 329 
+312 
+Beverage and tobacco product manufacturing 
+214 712 
+224 136 
+313 
+Textile mills 
+78 736 
+77 854 
+314 
+Textile product mills 
+97 569 
+96 965 
+315 
+Apparel manufacturing 
+65 696 
+62 491 
+316 
+Leather and allied product manufacturing 
+25 213 
+25 055 
+321 
+Wood product manufacturing 
+395 339 
+398 867 
+322 
+Paper manufacturing 
+328 945 
+330 425 
+323 
+Printing and related support activities 
+372 745 
+351 849 
+324 
+Petroleum and coal products manufacturing 
+105 383 
+100 428 
+325 
+Chemical manufacturing 
+758 902 
+778 136 
+326 
+Plastics and rubber products manufacturing 
+768 225 
+773 438 
+327 
+Nonmetallic mineral product manufacturing 
+386 482 
+384 716 
+331 
+Primary metal manufacturing 
+346 423 
+317 946 
+332 
+Fabricated metal product manufacturing 
+1 339 334 
+1 296 417 
+333 
+Machinery manufacturing 
+1 008 247 
+996 694 
+334 
+Computer and electronic product manufacturing 
+776 220 
+758 833 
+335 
+Electrical equipment, appliance, and component manufacturing 
+334 391 
+341 237 
+336 
+Transportation equipment manufacturing 
+1 535 704 
+1 534 161 
+337 
+Furniture and related product manufacturing 
+347 017 
+333 078 
+339 
+Miscellaneous manufacturing 
+510 868 
+513 924 
+TOTAL 
+  
+11 305 227 
+11 205 979 
+ 
+Data Source: U.S. Census Bureau. (2023). “Annual Survey of Manufactures.” https://www.census.gov/programs-surveys/asm/data/tables.html 
+ 
+NIST AMS 600-13 
+November 2023 
+3 
+ 
+Table 4.2: Employment by Industry (Thousands): Current Population Survey 
+  
+Total Employed 
+  
+  
+2021 
+2022 
+Percent 
+Change 
+Agriculture and related 
+2 291 
+2 290 
+0.0% 
+Mining, quarrying, and oil and gas extraction 
+603 
+601 
+-0.3% 
+Construction 
+11 271 
+11 790 
+4.6% 
+Manufacturing 
+14 718 
+15 231 
+3.5% 
+Wholesale and retail trade 
+19 623 
+19 462 
+-0.8% 
+Transportation and utilities 
+9 377 
+10 079 
+7.5% 
+Information 
+2 721 
+2 867 
+5.4% 
+Financial activities 
+10 725 
+11 033 
+2.9% 
+Professional and business services 
+19 295 
+20 628 
+6.9% 
+Education and health services 
+34 725 
+35 377 
+1.9% 
+Leisure and hospitality 
+12 635 
+13 728 
+8.7% 
+Other services 
+7 186 
+7 530 
+4.8% 
+Public administration 
+7 410 
+7 674 
+3.6% 
+Total* 
+152 580 
+158 290 
+3.7% 
+* The sum may not match the total due to rounding of annual averages 
+  
+  
+Source: Bureau of Labor Statistics. (2023a) Current Population Survey. "Table 17: Employed Persons by  
+Industry, Sex, Race, and Occupation." <http://www.bls.gov/cps> 
+  
+ 
+ 
+Table 4.3: Manufacturing Employment (Thousands): Current Employment Statistics 
+  
+2021 
+2022 
+Total Private 
+124 311 
+130 404 
+Manufacturing 
+12 354 
+12 825 
+Durable Goods 
+7 681 
+7 975 
+Nondurable Goods 
+4 673 
+4 850 
+Source: Bureau of Labor Statistics. (2023b) Current Employment Statistics. 
+http://www.bls.gov/ces/home.htm 
+ 
+ 
+full-time and part-time employees on the payrolls of operating establishments during any part of 
+the pay period being surveyed excluding temporary staffing obtained through a staffing service. 
+It also excludes proprietors along with partners of unincorporated businesses.  
+ 
+Between January 2005 and January 2010, manufacturing employment declined by 19.6 %, as 
+seen in Figure 4.1. As of July 2023, employment was still 8.9 % below its 2005 level. In times of 
+financial difficulty, large purchases are often delayed or determined to be unnecessary. Thus, as 
+would be expected, during the late 2000’s recession durable goods declined more than 
+nondurable goods. The other major decline in manufacturing employment was during the 
+pandemic. Between January 2019 and April of 2020, manufacturing employment declined 10 
+percentage points to be 19.9 % below its 2005 level. By September 2021, manufacturing 
+employment had risen to 12.8 % below its 2005 level. However, at that time there were a 
+substantial number of job openings in manufacturing as seen in Figure 4.1.  
+ 
+NIST AMS 600-13 
+November 2023 
+4 
+ 
+The employees that work in manufacturing offer their time and, in some cases, risk their personal 
+safety in return for compensation. In terms of safety, the number of fatal injuries increased 
+12.6 % between 2020 and 2021 (see Table 4.4). Nonfatal injuries increased as did the injury rate 
+(see Table 4.5). The incident rate for nonfatal injuries in manufacturing remains higher than that 
+for all private industry. As illustrated in Figure 4.2, fatalities, injuries, and the injury rate have a 
+five-year compound growth rate of -3.8 %, -3.1 %, and -1.7 % respectively. 
+ 
+ 
+ 
+Figure 4.1: Cumulative Change in Percent in Manufacturing Employment (Seasonally Adjusted) and 
+Number of Job Openings (seasonally Adjusted), 2005-2023 
+Source: Bureau of Labor Statistics. (2023b) Current Employment Statistics. http://www.bls.gov/ces/ and Bureau of Labor Statistics. (2023c) Job 
+Openings and Labor Turnover Survey. https://www.bls.gov/jlt/ 
+Source: Bureau of Labor Statistics. (2023c). Job Openings and Labor Turnover Survey. https://www.bls.gov/jlt/ 
+ 
+ 
+ 
+ 
+ 
+0
+200
+400
+600
+800
+1000
+1200
+-25.0%
+-20.0%
+-15.0%
+-10.0%
+-5.0%
+0.0%
+5.0%
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Thousands of Job Openings
+Cumulative Percent Change (Base year=2005)
+Manufacturing (Left Axis)
+Nondurable Goods (Left Axis)
+Durable Goods (Left Axis)
+Job openings (Right Axis)
+NIST AMS 600-13 
+November 2023 
+5 
+ 
+Table 4.4: Fatal Occupational Injuries by Event or Exposure 
+  
+  
+Total 
+Violence and 
+other injuries 
+by persons or 
+animals 
+Transportation 
+Incidents 
+fires and 
+explosions 
+Falls, 
+slips, 
+trips 
+exposure to 
+harmful sub-
+stances or 
+environments  
+Contact 
+with 
+objects 
+and 
+equipment  
+2020 
+Total  
+4764 
+705 
+1778 
+71 
+805 
+672 
+716 
+Manufacturing 
+340 
+42 
+76 
+10 
+55 
+50 
+106 
+2021 
+Total  
+5190 
+761 
+1982 
+76 
+850 
+798 
+705 
+Manufacturing 
+383 
+36 
+84 
+10 
+55 
+82 
+115 
+Percent 
+Change 
+Total  
+8.9% 
+7.9% 
+11.5% 
+7.0% 
+5.6% 
+18.8% 
+-1.5% 
+Manufacturing 
+12.6% 
+-14.3% 
+10.5% 
+0.0% 
+0.0% 
+64.0% 
+8.5% 
+Source: Bureau of Labor Statistics. (2022a) Census of Fatal Occupational Injuries. “Industry by Event or Exposure.” 
+<http://stats.bls.gov/iif/oshcfoi1.htm> 
+ 
+Table 4.5: Total Recordable Cases of Nonfatal Injuries and Illnesses  
+  
+  
+2020 
+2021 
+Percent Change 
+Manu-
+facturing 
+Incident Rate per 100 full time workers* 
+3.1 
+3.3 
+6.5% 
+Total Recordable Cases (thousands) 
+373.3 
+385.1 
+3.2% 
+Private 
+Industry 
+Incident Rate per 100 full time workers 
+2.7 
+2.7 
+0.0% 
+Total Recordable Cases (thousands) 
+2654.7 
+2607.9 
+-1.8% 
+Source: Bureau of Labor Statistics (2022b). Injuries, Illness, and Fatalities Program. http://www.bls.gov/iif/ 
+* The incidence rates represent the number of injuries and illnesses per 100 full-time workers and were calculated as: (N/EH) x 200,000, where  
+N = number of injuries and illnesses    
+EH = total hours worked by all employees during the calendar year     
+200,000 = base for 100 equivalent full-time workers (working 40 hours per week, 50 weeks per year) 
+ 
+ 
+Figure 4.2: Manufacturing Fatalities and Injuries 
+Source: Bureau of Labor Statistics. (2022b). Injuries, Illness, and Fatalities Program. http://www.bls.gov/iif/ 
+Source: Bureau of Labor Statistics. (2022a) Census of Fatal Occupational Injuries. “Industry by Event or Exposure.” 
+<http://stats.bls.gov/iif/oshcfoi1.htm> 
+ 
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+0
+200
+400
+600
+800
+1000
+1200
+1400
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Nonfatal Injuries per 100 Full-time 
+Workers
+Fatalities (count) and Injuries 
+(thousands)
+Fatalities (Left Axis)
+Injuries (Left Axis)
+Injury Rate (Right Axis)
+NIST AMS 600-13 
+November 2023 
+6 
+ 
+During the late 2000s recession, the average number of hours worked per week declined, as seen 
+in Figure 4.3. Unlike employment, however, the number of hours worked per week returned to 
+its pre-recession levels or slightly higher. Average wages increased significantly during the late 
+2000’s recession and 2020 decline of GDP, as can be seen in Figure 4.4. This is likely because 
+low wage earners are disproportionately impacted by employment reductions, which suggests 
+that high wage earners not only receive more pay, but also have more job security. Average 
+hours also dropped during the pandemic 
+and has largely returned to pre-recession levels. Like the late 2000’s recession, during the 
+pandemic wages increased while hours and employment decreased.  
+ 
+Figure 4.3: Average Weekly Hours for All Employees (Seasonally Adjusted) 
+Source: Bureau of Labor Statistics. (2023b) Current Employment Statistics. http://www.bls.gov/ces/home.htm 
+ 
+The compound annual growth rate in real dollars for private sector wages was 0.6 % between 
+July 2018 and July 2023 and compensation was -0.1 % for manufacturing. As illustrated in 
+Figure 4.5, employee compensation in manufacturing, which includes benefits, has had a five-
+year compound annual growth of -1.0 %, but remains 6.3 % above total private industry 
+compensation. In May of 2018 the average hourly wages for the total private sector exceeded 
+that of manufacturing, which was not the case before that time. Hourly compensation in 
+manufacturing, which includes benefits, still exceeds that of the total private industry; however, 
+the difference has narrowed significantly. In the first quarter of 2007, hourly compensation in 
+manufacturing was 17.2 % higher than the private sector. By the first quarter of 2023, this 
+difference narrowed to 6.3 %. As illustrated in Figure 4.6, the prices received by producers for 
+all manufacturing between July 2020 and July 2022 has increased 33.4 % while in the fifteen 
+years prior to that (i.e., June 2005 to June 2020) it only increased 27.1 % total. For those that 
+invest in manufacturing, corporate profits have had a five-year compound annual growth of 
+10.4 %, as illustrated Figure 4.7, and nonfarm proprietors’ income for manufacturing has had a 
+five-year compound annual growth rate of -8.4 %, as illustrated in Figure 4.8.  
+ 
+32.0
+34.0
+36.0
+38.0
+40.0
+42.0
+44.0
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Hours Per Week
+Total Private
+Manufacturing
+Durable Goods
+Nondurable Goods
+NIST AMS 600-13 
+November 2023 
+7 
+ 
+ 
+ 
+Figure 4.4: Average Hourly Wages for Manufacturing and Private Industry (Seasonally Adjusted) 
+Source: Bureau of Labor Statistics. (2023b) Current Employment Statistics. http://www.bls.gov/ces/home.htm 
+Adjusted using the CPI for all consumers. Bureau of Labor Statistics. (2022d). Consumer Price Index. https://www.bls.gov/cpi/data.htm 
+ 
+ 
+ 
+Figure 4.5: Employee Compensation (Hourly) 
+Source: Bureau of Labor Statistics. (2023e) National Compensation Survey. http://www.bls.gov/ncs/ 
+Adjusted using the Consumer Price Index for all consumers from the Bureau of Labor Statistics.  
+ 
+25
+27
+29
+31
+33
+35
+37
+39
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Constant 2023 Dollars per Hour
+Total Private
+Manufacturing
+Durable Goods
+Nondurable Goods
+25
+35
+45
+55
+65
+75
+85
+95
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+$2022 Per Hour
+Private Industry
+Manufacturing
+Manufacturing - Management, Business, and Financial Occupations
+Manufacturing - Professional and Related Occupations
+Manufacturing - Production Occupations
+Manufacturing - Transportation and Material Moving Occupations
+NIST AMS 600-13 
+November 2023 
+8 
+ 
+  
+Figure 4.6: Inflation - Cumulative Percent Change in the Producer Price Index (Selling Price Received), 
+2005-2023 
+Source: Bureau of Labor Statistics. (2023). Producer Price Index. https://stats.bls.gov/ppi/databases/ 
+ 
+An important aspect of manufacturing is the efficiency and productivity with which resources are 
+used. The Bureau of Labor Statistics provides an index of labor productivity and total factor 
+productivity. Labor productivity for manufacturing decreased by 1.0 % between  the second 
+quarter of 2022 and the second quarter of  2023, as illustrated in Figure 4.9. The five-year 
+compound annual growth is -0.6 %. The Bureau of Labor Statistics total factor productivity 
+measures “the efficiency at which combined inputs are used to produce output of goods and 
+services” (Bureau of Labor Statistics 2023g). For U.S. manufacturing, total factor productivity 
+increased 3.6 % from 2020 to 2021 and has a 5-year compound annual growth rate of 0.7 %, as 
+illustrated in Figure 4.10. Productivity in the U.S. is relatively high compared to other countries. 
+As illustrated in Figure 4.11, the U.S. is ranked ninth in output per hour among 142 countries 
+using data from the Conference Board.27  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 Conference Board. (2022) Total Economy Database: Output, Labor and Labor Productivity. https://www.conference-
+board.org/data/economydatabase/index.cfm?id=27762 
+-20.0%
+0.0%
+20.0%
+40.0%
+60.0%
+80.0%
+100.0%
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Cumulative Percent Change (Base Year = 
+2005)
+NAICS 336: Transportation Equipment
+NAICS 335: Electrical Equipment and Appliances
+NAICS 334: Computers and Electronics
+NAICS 333: Machinery
+Total Manufacturing
+NIST AMS 600-13 
+November 2023 
+9 
+ 
+ 
+Figure 4.7: Profits for Corporations 
+Source: Bureau of Economic Analysis. (2023d) Income and Employment by Industry. Table 6.16D. Corporate Profits by Industry. 
+https://apps.bea.gov/iTable/index_nipa.cfm. 
+ 
+ 
+Figure 4.8: Nonfarm Proprietor's Income 
+Source: Bureau of Economic Analysis. (2023d) Income and Employment by Industry. Table 6.12D. Nonfarm Proprietors’ Income. 
+https://apps.bea.gov/iTable/index_nipa.cfm. 
+ 
+Elect equip, appliances, and components
+Motor vehicles, bodies and trailers, and parts
+Other nondurable goods4
+Petroleum and coal products
+Fabricated metal products
+Machinery
+Food and beverage and tobacco products
+Chemical products
+Computer and electronic products
+Other durable goods3
+-80.0
+-60.0
+-40.0
+-20.0
+0.0
+20.0
+40.0
+60.0
+80.0
+100.0
+120.0
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+2019
+2021
+$2022 Billion
+-5000
+0
+5000
+10000
+15000
+20000
+25000
+30000
+35000
+40000
+45000
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+$Billion 2022
+Manufacturing
+Durable goods
+Nondurable goods
+Manufacturing Profits 
+0.0
+100.0
+200.0
+300.0
+400.0
+500.0
+600.0
+700.0
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+2019
+2021
+$Billion 2022
+NIST AMS 600-13 
+November 2023 
+10 
+ 
+ 
+ 
+Figure 4.9: Manufacturing Labor Productivity Index (2012 Base Year = 100) 
+Source: Bureau of Labor Statistics. (2023f) Productivity. https://www.bls.gov/mfp/ 
+ 
+ 
+ 
+Figure 4.10: Manufacturing Total Factor Productivity Index 
+Source: Bureau of Labor Statistics. (2023f) Productivity. https://www.bls.gov/mfp/ 
+ 
+-5.0%
+0.0%
+5.0%
+10.0%
+15.0%
+20.0%
+25.0%
+30.0%
+35.0%
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Cumulative Percent Change
+Nonfarm Business
+Manufacturing
+Durable Goods
+Nondurable Goods
+-8.0%
+-6.0%
+-4.0%
+-2.0%
+0.0%
+2.0%
+4.0%
+6.0%
+8.0%
+10.0%
+12.0%
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Cumulative Percent Change (Base year = 2005)
+Private Business
+Manufacturing
+Nondurable Manufacturing
+Durable Manufacturing
+NIST AMS 600-13 
+November 2023 
+11 
+ 
+ 
+Figure 4.11: Output per Labor Hour (Top Ten Countries Out of 133)  
+Source: Conference Board. (2023) Total Economy Database: Output, Labor and Labor Productivity. https://www.conference-
+board.org/data/economydatabase/index.cfm?id=27762 
+ 
+ 
+ 
+Netherlands
+United States
+Germany
+Austria
+Belgium
+Sweden
+Switzerland
+Denmark
+Norway
+Luxembourg
+0
+20
+40
+60
+80
+100
+120
+140
+2022 international dollars, converted using 
+Purchasing Power Parities
+NIST AMS 600-13 
+November 2023 
+12 
+ 
+ 
+Research, Innovation, and Factors for Doing Business 
+ 
+Manufacturing goods involves not only physical production, but also design and innovation. 
+Measuring and comparing innovation between countries is problematic, however, as there is no 
+standard metric for measuring this activity. Four measures are often discussed regarding 
+innovation: number of patent applications, research and development expenditures, number of 
+researchers, and number of published journal articles. As seen in Figure 5.1, the U.S. ranked 4th 
+in 2020 in resident patent applications per million people, which puts it above the 95th percentile 
+among 138 countries. Using patent applications as a metric can be problematic though, as not all 
+innovations are patented and some patents might not be considered innovation. The U.S. ranked 
+5th in research and development expenditures as a percent of GDP in 2020, which puts it above 
+the 90th percentile (see Figure 5.2) among 84 nations. As seen in Figure 5.3, U.S. enterprise 
+research and development expenditures in manufacturing increased 1.8 % between 2018 and 
+2019 and has a 5-year compound annual growth rate of 2.9 % (not shown). In terms of 
+researchers per million people, the U.S. ranked 17th in 2019, putting it just above the 80th 
+percentile (see Figure 5.4). In journal articles per million people it ranked 24th in 2020, and 
+China had more articles than the U.S. (see Figure 5.5).28 Exports are also frequently seen as a 
+measure of competitiveness. The U.S. was the second largest exporter in 2022, as seen in Figure 
+5.6. 
+ 
+ 
+  
+ Figure 5.1: Patent Applications (Residents) per Million People, Top Ten (1990-2020) 
+World Bank. 2023. World Development Indicators. https://data.worldbank.org/products/wdi 
+ 
+28 World Bank. 2022. World Development Indicators. http://data.worldbank.org/data-catalog/world-development-indicators 
+Austria
+San Marino
+North Korea
+Finland
+Singapore
+Germany
+United States
+China
+Japan
+South Korea
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+1990
+1993
+1996
+1999
+2002
+2005
+2008
+2011
+2014
+2017
+Resident Patent Applications per 
+Million People
+0
+2
+4
+6
+8
+10
+1990
+1993
+1996
+1999
+2002
+2005
+2008
+2011
+2014
+2017
+2020
+U.S. Rank of Resident 
+Patent App.  per Capita 
+(lower is better)
+NIST AMS 600-13 
+November 2023 
+13 
+ 
+ 
+Figure 5.2: Research and Development Expenditures as a Percent of GDP, Top Ten 
+Source: World Bank. 2023. World Development Indicators. https://data.worldbank.org/products/wdi 
+* Missing data was interpolated 
+                                                           
+ 
+Figure 5.3: Manufacturing Enterprise Research and Development Expenditures 
+Source: OECD. (2022) Business Enterprise R-D Expenditure by Industry (ISIC 4). http://stats.oecd.org/# 
+United Nations Statistics Division. (2023). “National Accounts Main Aggregates Database.” http://unstats.un.org/unsd/snaama/Introduction.asp 
+*Missing values were interpolated 
+ 
+Finland FIN
+Denmark DNK
+Germany DEU
+Austria AUT
+Japan JPN
+United States USA
+Belgium BEL
+Sweden SWE
+Korea, Rep. KOR
+Israel ISR
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+1996
+1999
+2002
+2005
+2008
+2011
+2014
+2017
+Research and Development 
+Expenditures as a percent of GDP
+Switzerland*
+Türkiye
+United Kingdom
+Italy
+Chinese Taipei
+Korea
+Germany
+Japan
+United States
+China
+0
+50
+100
+150
+200
+250
+300
+350
+2008
+2010
+2012
+2014
+2016
+2018
+$Billion 2015 PPP
+10.0%
+10.5%
+11.0%
+11.5%
+12.0%
+2008
+2010
+2012
+2014
+2016
+2018
+Business Enterprise 
+R&D Expenditure as a 
+Percent of GDP
+0
+5
+10
+15
+1996
+2000
+2004
+2008
+2012
+2016
+2020
+U.S. Rank (lower 
+is better)
+U.S. Rank 
+NIST AMS 600-13 
+November 2023 
+14 
+ 
+In addition to some of the previously mentioned metrics, a number of indices have been 
+developed to assess national competitiveness. The IMD World Competitiveness Index provides 
+insight into the U.S. innovation landscape. Figure 5.7 provides the U.S. ranking for 20 measures 
+of competitiveness. This provides some indicators to identify opportunities for improvement in 
+U.S. economic activity. In 2023, the U.S. ranked low in prices, public finance, societal 
+framework, and international trade among other things. Overall, the U.S. ranked 9th in 
+competitiveness for conducting business.29  
+ 
+The 2016 Deloitte Global Manufacturing Competitiveness Index uses a survey of CEOs to rank 
+countries based on their perception. The U.S. was ranked 2nd out 40 nations with China being 
+ranked 1st. High-cost labor, high corporate tax rates, and increasing investments outside of the 
+U.S. were identified as challenges to the U.S. industry. Manufacturers indicated that companies 
+were building high-tech factories in the U.S. due to rising labor costs in China, shipping costs, 
+and low-cost shale gas.30 According to 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5.4: Researchers per Million People, Ranking 
+World Bank. 2023. World Development Indicators. https://data.worldbank.org/products/wdi 
+ 
+29 IMD. (2021). IMD World Competitiveness Country Profile: U.S. https://worldcompetitiveness.imd.org/countryprofile/US 
+30 Deloitte. (2016). 2016 Global Manufacturing Competitiveness Index. 
+http://www2.deloitte.com/content/dam/Deloitte/us/Documents/manufacturing/us-gmci.pdf 
+0
+5
+10
+15
+20
+25
+30
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Rank of Researchers per Million People 
+(lower is better)
+Korea, Rep.
+Germany
+Japan
+United States
+United Kingdom
+3000
+3500
+4000
+4500
+5000
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+U.S. Researchers 
+per Million People
+NIST AMS 600-13 
+November 2023 
+15 
+ 
+                    
+ 
+Figure 5.5: Journal Articles, Top 10 Countries 
+World Bank. 2023. World Development Indicators. https://data.worldbank.org/products/wdi 
+ 
+ 
+Figure 5.6: Merchandise Exports, Top Ten Exporters 
+World Bank. 2023. World Development Indicators. https://data.worldbank.org/products/wdi 
+NOTE: Adjusted using the Consumer Price Index for all consumers from the Bureau of Labor Statistics. 
+Brazil
+Korea, Rep.
+Italy
+Russian Federation
+Japan
+United Kingdom
+Germany
+India
+United States
+China
+0
+100
+200
+300
+400
+500
+600
+700
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+Journal Articles (thousands)
+United Arab Emirates
+Hong Kong
+France
+Belgium
+Italy
+South Korea
+Japan
+Netherlands
+Germany
+United States
+China
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+2019
+2021
+$Billion 2022
+0
+5
+10
+15
+20
+25
+30
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+Rank of Journal Articles per 
+Capita (lower is better)
+NIST AMS 600-13 
+November 2023 
+16 
+ 
+ 
+Figure 5.7: IMD World Competitiveness Rankings for the US: Lower is Better (i.e., a Rank of 1 is Better 
+than a Rank of 64) – 64 countries ranked 
+Source: IMD. (2023). IMD World Competitiveness Country Profile: U.S. https://worldcompetitiveness.imd.org/countryprofile/US 
+ 
+the Deloitte Global Manufacturing Competitiveness Index, advantages to U.S. manufacturers 
+included its technological prowess and size, productivity, and research support. China was 
+ranked 1st with advantages in raw material supply, advanced electronics, and increased research 
+and development spending. China has challenges in innovation, slowing economic growth, 
+productivity, and regulatory inefficiency.  
+ 
+The World Economic Forum’s 2019 Global Competitiveness Report uses 12 items to assess the 
+competitiveness of 141 economies, which includes the set of “institutions, policies and factors 
+that determine a country’s level of productivity.” The U.S. was ranked 2nd overall with various 
+rankings in the 12 “pillars” that underly the ranking, as illustrated in Figure 5.8. Within the 12 
+“pillars,” there were lower rankings in health, macroeconomic stability, and 
+information/communication technology adoption.31 The index uses a set of 90 factors to produce 
+the 12 items in Figure 5.8. A selection of those that are relevant to standards, technology, and 
+information dissemination are presented in  Table 5.1. Those that have poorer rankings might be 
+opportunities for improvement.  
+ 
+ 
+ 
+31 World Economic Forum. (2019). The Global Competitiveness Report 2019. 
+http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf 
+0
+20
+40
+60
+Scientific Infrastructure
+International Investment
+Finance
+Domestic Economy
+Productivity and Efficiency
+Technological Infrastructure
+Education
+Management Practices
+Employment
+Tax/Fiscal Policy
+Health and Environment
+Labor Market
+Basic Infrastructure
+Institutional Framework
+Business Legislation
+Attitudes and Values
+International Trade
+Societal Framework
+Public Finance
+Prices
+2022
+2023
+NIST AMS 600-13 
+November 2023 
+17 
+ 
+ 
+Figure 5.8: World Economic Forum 2019 Global Competitiveness Index: U.S. Pillar Rankings: Lower is 
+Better 
+Source: World Economic Forum. (2019). The Global Competitiveness Report 2018. 
+http://www3.weforum.org/docs/GCR2018/05FullReport/TheGlobalCompetitivenessReport2018.pdf 
+ 
+Among those selected in Table 5.1, the U.S. ranks below the 90th percentile in both of the crime 
+items, 2 of the 8 transport items, 6 of the 9 utility items, labor-health, 2 of the 9 human capital 
+items, both barrier to entry items, and 2 of the 10 innovation items. 
+ 
+The Competitive Industrial Performance Index, published by the United Nations Industrial 
+Development Organization, ranks countries based on 3 dimensions: 1) capacity to produce and 
+export manufactured goods; 2) technological deepening and upgrading; and 3) world impact.32 
+The U.S. ranked 5th overall, as seen in Table 5.2.  
+ 
+The Annual Survey of Entrepreneurs makes inquiries on U.S. entrepreneurs concerning the 
+negative impacts of eight items: 
+ 
+• Access to financial capital 
+• Cost of financial capital 
+• Finding qualified labor 
+• Taxes 
+• Slow business or lost sales 
+• Late or nonpayment from customers 
+• Unpredictability of business conditions 
+• Changes or updates in technology 
+• Other 
+ 
+ 
+32 United Nations Industrial Development Organization. (2020). Competitive Industrial Performance Report 2020. 
+https://stat.unido.org/content/publications/competitive-industrial-performance-report-2020  
+0
+20
+40
+60
+80
+100
+120
+Overall
+Labor Market
+Financial System
+Business Dynamism
+Innovation Capability
+Market Size
+Skills
+Product Market
+Infrastructure
+Institutions
+Information/ Communication…
+Macroeconomic Stability
+Health
+2018
+2019
+NIST AMS 600-13 
+November 2023 
+18 
+ 
+Table 5.1: World Economic Forum Competitiveness Index Indicators – Selection of those Relevant to 
+Standards, Technology, and Information Dissemination Solutions, Rankings Out of 141 Countries (Lower 
+is Better) 
+Pillar Component
+US Rank
+Application
+1
+Organized crime
+69
+Crime
+1
+Terrorism incidence
+83.3
+Crime
+1
+Intellectual property protection
+12
+IP Protection
+2
+Road connectivity index
+1
+Transport
+2
+Quality of roads
+17
+Transport
+2
+Railroad density (km of roads/square km)
+48
+Transport
+2
+Efficiency of train service
+12
+Transport
+2
+Airport connectivity
+1
+Transport
+2
+Efficiency of air transport services
+10
+Transport
+2
+Liner shipping connectivity index
+8
+Transport
+2
+Efficiency of seaport services
+10
+Transport
+2
+Electrification rate (% of population)
+2
+Utilities
+2
+Electric power transmission and distribution losses (% output)
+23
+Utilities
+2
+Exposure to unsafe drinking water (% of population)
+14
+Utilities
+2
+Reliability of water supply
+30
+Utilities
+3
+Mobile-cellular telephone subscriptions (per 100 people)
+54
+Utilities
+3
+Mobile-broadband subscriptions (per 100 people)
+7
+Utilities
+3
+Fixed-broadband internet subscriptions (per 100 people)
+18
+Utilities
+3
+Fibre internet subscriptions (per 100 people)
+45
+Utilities
+3
+Internet users (% of population)
+26
+Utilities
+5
+Healthy life expectancy
+54
+Labor - Health
+6
+Mean years of schooling
+7
+Human Capital
+6
+Extent of staff training
+6
+Human Capital
+6
+Quality of vocational training
+8
+Human Capital
+6
+Skillset of graduates
+5
+Human Capital
+6
+Digital skills among population
+12
+Human Capital
+6
+Ease of finding skilled employees
+1
+Human Capital
+6
+School life expectancy (expected years of schooling)
+30
+Human Capital
+6
+Critical thinking in teaching
+9
+Human Capital
+6
+Pupil-to-teacher ratio in primary education 
+45
+Human Capital
+11
+Cost of starting a business (% GNI per capita)
+24
+Barriers to Entry
+11
+Time to start a business (days)
+31
+Barriers to Entry
+11
+Companies embracing disruptive ideas
+2
+Innovation
+12
+State of cluster development
+2
+Innovation
+12
+International co-inventions (applications/million people)
+19
+Innovation
+12
+Multi-stakeholder collaboration
+2
+Innovation
+12
+Scientific publications (H index)
+1
+Innovation
+12
+Patent applications (per million people)
+13
+Innovation
+12
+R&D expenditures (% of GDP)
+11
+Innovation
+12
+Quality of research institutions 
+1
+Innovation
+12
+Buyer sophistication
+4
+Innovation
+12
+Trademark applications (per million people)
+32
+Innovation
+ 
+Pillars: 1) Institutions, 2) Infrastructure, 3) Information and communication technology adoption, 4) macroeconomic policy, 5) Health, 6) Skills, 
+7) Product market, 8) Labor market, 9) Financial system, 10) Market size, 11) Business dynamism, and 12) Innovation capability. 
+Applications: The application categories were developed for this report in order to identify items that might be relevant to manufacturing  
+NIST AMS 600-13 
+November 2023 
+19 
+ 
+As seen in Figure 5.9, there are five items where more than a third of the firms indicated negative 
+impacts, including taxes, slow business or lost sales, unpredictability of business conditions, 
+finding qualified labor, and government regulations. 33  
+ 
+Countries are sometimes compared to or alluded to as brands. According to a survey on country 
+reputation of products published by Statista (see Figure 5.10), the U.S. ranks 10th among 49 total 
+countries. Another ranking from Ipsos (see Figure 5.11), the U.S. ranks 8th. The high ranking of 
+the U.S. supports the idea that manufacturers in the U.S. tend to compete based on differentiation 
+rather than cost competition. 
+ 
+ 
+Table 5.2: Rankings from the Competitive Industrial Performance Index 2021, 150 Total Countries 
+Country 
+Rank 
+Germany 
+1 
+China 
+2 
+Ireland 
+3 
+South Korea 
+4 
+United States 
+5 
+ 
+Source: United Nations Industrial Development Organization. (2021). Competitive Industrial Performance Report 2021. https://stat.unido.org/ 
+ 
+ 
+Figure 5.9: Factors Impacting U.S. Business (Annual Survey of Entrepreneurs), 2016 
+Source: U.S. Census Bureau. (2019). Annual Survey of Entrepreneurs. https://www.census.gov/programs-surveys/ase.html 
+ 
+ 
+ 
+33 U.S. Census Bureau. (2019) Annual Survey of Entrepreneurs. https://www.census.gov/programs-surveys/ase.html 
+0
+10
+20
+30
+40
+50
+60
+Negative impact from
+access to financial capital
+Negative impact from
+cost of financial capital
+Negative impact from
+changes or updates in
+technology
+Negative impact from
+late or nonpayment from
+customers
+Negative impact from
+government regulations
+Negative impact from
+finding qualified labor
+Negative impact from
+unpredictability of
+business conditions
+Negative impact from
+slow business or lost
+sales
+Negative impact from
+taxes
+Percent of Respondents
+NIST AMS 600-13 
+November 2023 
+20 
+ 
+ 
+Figure 5.10: Made-in-Country Index, 2017 
+Source: Loose, Nicolas. (2017). “Made-in-Country Index 2017.” https://www.statista.com/page/Made-In-Country-
+Index  
+ 
+ 
+ 
+Figure 5.11: Ipsos National Brands Index, 2021 
+Source: Ipsos. (2022). “Nation Brands Index 2022.” 
+https://www.ipsos.com/sites/default/files/ct/news/documents/2021-10/NBI-2021-ipsos.pdf  
+ 
+ 
+ 
+ 
+ 
+0
+20
+40
+60
+80
+100
+120
+Germany (Rank: 1)
+Switzerland (Rank: 2)
+European Union (Rank: 3)
+United Kingdom (Rank: 4)
+Sweden (Rank: 5)
+Canada (Rank: 6)
+Italy (Rank: 7)
+Japan (Rank: 8)
+France (Rank: 9)
+USA (Rank: 10)
+India (Rank: 36)
+China (Rank: 49)
+67
+67.5
+68
+68.5
+69
+69.5
+70
+Germany (Rank: 1)
+Japan (Rank: 2)
+Canada (Rank: 3)
+Italy (Rank: 4)
+France (Rank: 5)
+United Kingdom (Rank: 6)
+Switzerland (Rank: 7)
+United States (Rank: 8)
+Sweden (Rank: 9)
+Australia (Rank: 10)
+NIST AMS 600-13 
+November 2023 
+21 
+ 
+ 
+Discussion 
+ 
+This report provides an overview of the U.S. manufacturing industry. There are 3 aspects of U.S. 
+manufacturing that are considered: (1) how the U.S. industry compares to other countries, (2) the 
+trends in the domestic industry, and (3) the industry trends compared to those in other countries. 
+The U.S. remains a major manufacturing nation; however, other countries are rising rapidly. 
+Manufacturing in the U.S. was significantly impacted by the 2000’s recession and the 2020 
+economy.  
+ 
+The U.S. accounts for 16.3 % of global manufacturing, according to the United Nations Statistics 
+Division National Accounts Main Aggregates Database, making it the second largest. Compound 
+real (i.e., controlling for inflation) annual growth in the U.S. between 1996 and 2021 was 2.1 %, 
+which places the U.S. below the 50th percentile. The compound annual growth for the U.S. 
+between 2016 and 2021 was 2.2 %. This puts the U.S. just above the 50th percentile but above 
+Canada and Germany among others. In terms of subsectors of manufacturing, the U.S. ranks 1st 
+in 7 industries out of 16 total while China was the largest for the other industries, as reported in 
+OECD data. 
+ 
+In 2022, there was an estimated $2.3 trillion in manufacturing value added in chained 2012 
+dollars. Using 2012 input-output data adjusted to 2019 dollars, there is an estimated $4278 
+billion, including direct and indirect value added, associated with U.S. manufacturing. In 2019, 
+the U.S. imported approximately 20.4 % of its intermediate goods, according to BEA data. 
+Discrete technology products account for 41 % of manufacturing value added, according to BEA 
+data.  
+ 
+From the pre-recession peak in the 4th quarter of 2007 to the 1st quarter of 2009 manufacturing 
+declined 17 percentage points. Manufacturing didn’t return to its pre-recession level until 2017. 
+During the recent pandemic, manufacturing value added declined 17 percentage points between 
+the third quarter of 2019 and second quarter of 2020, but returned to similar levels within a year. 
+Between January 2005 and January 2010, manufacturing employment declined by 19.6 %. As of 
+July 2023, employment was still 8.9 % below its 2005 level. Between January 2019 and April of 
+2020, manufacturing employment declined 10 percentage points to be 19.9 % below its 2005 
+level. By September 2021, manufacturing employment had risen to 12.8 % below its 2005 level. 
+ 
+ 
+ 
+ 
+ 
+ 
+NIST AMS 600-13 
+November 2023 
+22 
+ 
+References 
+Allwood, J. M. & Cullen, J. M. (2012). Sustainable Materials with Both Eyes Open. Cambridge 
+Ltd. 185. http://www.withbotheyesopen.com/ 
+Block, Fred L and Matthew R. Keller. State of Innovation: The U.S. Government's Role in 
+Technology Development. New York, NY; Taylor & Francis; 2016. 
+Bureau of Economic Analysis. (2023a). "Industry Economic Accounts Data." 
+http://www.bea.gov/iTable/index_industry_gdpIndy.cfm 
+Bureau of Economic Analysis. (2023b) “Fixed Assets Accounts Tables.” 
+https://apps.bea.gov/iTable/iTable.cfm?ReqID=10&step=2 
+Bureau of Economic Analysis. (2023c). Input-Output Accounts Data. 
+https://www.bea.gov/industry/input-output-accounts-data 
+Bureau of Economic Analysis. (2023d). "Income and Employment by Industry." Table 6.16D. 
+Corporate Profits by Industry and Table 6.12D. Nonfarm Proprietors' Income. 
+https://apps.bea.gov/iTable/index_nipa.cfm. 
+Bureau of Labor Statistics. (2022a). Census of Fatal Occupational Injuries. "Industry by Event or 
+Exposure." http://stats.bls.gov/iif/oshcfoi1.htm 
+Bureau of Labor Statistics. (2022b). Injuries, Illness, and Fatalities Program. 
+http://www.bls.gov/iif/ 
+Bureau of Labor Statistics. (2023a). Current Population Survey. "Table 17: Employed Persons by 
+Industry, Sex, Race, and Occupation." http://www.bls.gov/cps 
+Bureau of Labor Statistics. (2023b). Current Employment Statistics. 
+http://www.bls.gov/ces/home.htm 
+Bureau of Labor Statistics. (2023c). Job Openings and Labor Turnover Survey. 
+https://www.bls.gov/jlt/ 
+Bureau of Labor Statistics. (2022d). Consumer Price Index. https://www.bls.gov/cpi/data.htm 
+Bureau of Labor Statistics. (2023e). National Compensation Survey. http://www.bls.gov/ncs/ 
+Bureau of Labor Statistics. (2023f). Productivity. https://www.bls.gov/productivity/  
+Bureau of Labor Statistics. (2023g). Productivity Glossary. 
+https://www.bls.gov/productivity/glossary.htm#T 
+Callen, Tim. (2007). PPP Versus the Market: Which Weight Matters? Finance and Development. 
+Vol 44 number 1. http://www.imf.org/external/pubs/ft/fandd/2007/03/basics.htm 
+NIST AMS 600-13 
+November 2023 
+23 
+ 
+Conference Board. (2023). Total Economy Database: Output, Labor and Labor Productivity. 
+https://www.conference-board.org/data/economydatabase/index.cfm?id=27762 
+Deloitte. (2016). Global Manufacturing Competitiveness Index. 
+http://www2.deloitte.com/content/dam/Deloitte/us/Documents/manufacturing/us-gmci.pdf 
+Dornbusch, Rudiger, Stanley Fischer, and Richard Startz. (2000). Macroeconomics. 8th ed. 
+London, UK: McGraw-Hill. 
+Fenton, M. D. (2001). "Iron and Steel Recycling in the United States in 1998." Report 01-224. 
+U.S. Geological Survey: 3. https://pubs.usgs.gov/of/2001/of01-224/ 
+Hopp, Wallace J. and Mark L. Spearman. (2008). Factory Physics. Third Edition. Waveland 
+Press, Long Grove, IL.  
+IMD. (2023). IMD World Competitiveness Country Profile: U.S. 
+https://worldcompetitiveness.imd.org/countryprofile/US 
+Ipsos. (2022). “Nation Brands Index 2021.” https://www.ipsos.com/en/nation-brands-index-2022  
+Lee, Yung-Tsun Tina, Frank H. Riddick, and Björn Johan Ingemar Hohansson (2011). "Core 
+Manufacturing Simulation Data - A Manufacturing Simulation Integration Standard: Overview 
+and Case Studies." International Journal of Computer Integrated Manufacturing. vol 24 issue 8: 
+689-709. 
+Loose, Nicolas. (2017). “Made-in-Country Index 2017.” https://www.statista.com/page/Made-In-
+Country-Index 
+National Institute of Standards and Technology. (2018). "NIST General Information." 
+http://www.nist.gov/public_affairs/general_information.cfm 
+National Science Foundation. (2004). "On the Origins of Google." 
+https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=100660 
+OECD. (2022) Business Enterprise R-D Expenditure by Industry (ISIC 4). http://stats.oecd.org/# 
+OECD. (2020). STAN Input-Output Tables. https://stats.oecd.org/ 
+Robert D. Niehaus, Inc. (2014). Reassessing the Economic Impacts of the International Standard 
+for the Exchange of Product Model Data (STEP) on the U.S. Transportation Equipment 
+Manufacturing Industry. 
+Semiconductor Industry Association. 2020a. “Government Incentives and US Competitiveness 
+in Semiconductor Manufacturing.” https://www.semiconductors.org/wp-
+content/uploads/2020/09/Government-Incentives-and-US-Competitiveness-in-Semiconductor-
+Manufacturing-Sep-2020.pdf 
+NIST AMS 600-13 
+November 2023 
+24 
+ 
+Semiconductor Industry Association. 2020b. U.S. Needs Greater Semiconductor Manufacturing 
+Incentives. https://www.semiconductors.org/wp-content/uploads/2020/07/U.S.-Needs-Greater-
+Semiconductor-Manufacturing-Incentives-Infographic1.pdf?utm_source=morning_brew 
+Semiconductor Industry Association. "2021 State of the U.S. Semiconductor Industry." 
+https://www.semiconductors.org/wp-content/uploads/2021/09/2021-SIA-State-of-the-Industry-
+Report.pdf 
+Semiconductor Industry Association. 2022. 2022 Factbook. https://www.semiconductors.org/wp-
+content/uploads/2022/05/SIA-2022-Factbook_May-2022.pdf 
+Tabikh, Mohamad. (2014). "Downtime Cost and Reduction Analysis: Survey Results." Master 
+Thesis. KPP321. Mälardalen University. http://www.diva-
+portal.org/smash/get/diva2:757534/FULLTEXT01.pdf 
+Tassey Gregory. (2010) "Rationales and Mechanisms for Revitalizing U.S. Manufacturing R&D 
+Strategies." Journal of Technology Transfer. 35. 283-333. 
+Thomas, Douglas S. (2012). The Current State and Recent Trends of the U.S. Manufacturing 
+Industry. NIST Special Publication 1142. 
+http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1142.pdf 
+Thomas, Douglas. (2018). "The Effect of Flow Time on Productivity and Production." National 
+Institute of Standards and Technology. Advanced Manufacturing Series 100-25. 
+https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-25.pdf 
+Thomas, Douglas. (2020). Manufacturing Cost Guide. https://www.nist.gov/services-
+resources/software/manufacturing-cost-guide 
+United Nations Industrial Development Organization. (2021). Competitive Industrial 
+Performance Report 2021. https://stat.unido.org/admin/publicationPdf?CIP-2021-full.pdf 
+United Nations Statistics Division. (2023). "National Accounts Main Aggregates Database." 
+http://unstats.un.org/unsd/snaama/Introduction.asp 
+U.S. Census Bureau. (2019). Annual Survey of Entrepreneurs. 
+https://www.census.gov/programs-surveys/ase.html  
+U.S. Census Bureau. (2019). Manufacturers' Shipments, Inventories, and Orders. 
+https://www.census.gov/manufacturing/m3/historical_data/index.html 
+U.S. Census Bureau. (2020) 2017 Economic Census. 
+https://www.census.gov/data/tables/2017/econ/economic-census/naics-sector-31-33.html 
+U.S. Census Bureau. (2023). “Annual Survey of Manufactures.” 
+https://www.census.gov/programs-surveys/asm.html  
+NIST AMS 600-13 
+November 2023 
+25 
+ 
+Wessner, C.W. and Wolff A.W. (2012). Rising to the Challenge: U.S. Innovation Policy for the 
+Global Economy. National Research Council (US) Committee on Comparative National 
+Innovation Policies: Best Practice for the 21st Century. Washington (DC): National Academies 
+Press (US). http://www.ncbi.nlm.nih.gov/books/NBK100307/ 
+World Bank. (2023). World Development Indicators. http://data.worldbank.org/data-
+catalog/world-development-indicators 
+ 
+ 
+ 
+NIST AMS 600-13 
+November 2023 
+26 
+ 
+Appendix A. U.S. Semiconductor Manufacturing 
+U.S. semiconductor manufacturing value added was $30.4 billion in 2020 and was 10.6 % larger 
+in 2020 than it was in 2008, as illustrated in Figure A 1. The industry value added has had a 5-
+year compound annual growth rate of 4.2 %. The U.S. has a significant presence in the 
+semiconductor manufacturing industry with an estimated 12 % of the global production capacity 
+(see Table A 1). As shown in both Table A 1 and Figure A 1, while U.S. semiconductor 
+employment has been relatively flat, manufacturing value added has generally grown; however, 
+global growth has been faster, as seen in Table A 1. The result is that the U.S. share of the 
+industry went from 37 % in 1990 to 12 % in 2020. 
+ 
+As seen in Table A 2, the U.S. has 43 % of the 10 nm to 22 nm process technology market. 
+Generally, the lower the number, the greater the performance and the more technologically 
+advanced the technology because it represents the space for features on a chip.34 The U.S. has 
+little to no capacity for the most advanced technology, which is at the 10 nm or less process 
+technology. U.S. owned firms, which own facilities around the world, have a commanding 
+position in terms of the design of semiconductors, as seen in Table A 3. Additionally, U.S. firms 
+held significant proportions of national markets, including 49.9 % of the Chinese market, and  
+ 
+ 
+Figure A 1: Semiconductor Shipments, Value Added, and Employment, 2008-2021 
+Source: U.S. Census Bureau. Annual Survey of Manufactures. 2023. https://www.census.gov/programs-
+surveys/asm/data.html 
+Note: Adjusted using the PPI for “semiconductors and related device mfg” from the Bureau of Labor Statistics 
+Note: 2017 Value Added was interpolated 
+ 
+34 Congressional Research Service. 2020. “Semiconductors: U.S. Industry, Global Competition, and Federal Policy.” 
+https://crsreports.congress.gov/product/pdf/R/R46581  
+ 90,000
+ 100,000
+ 110,000
+ 120,000
+ 130,000
+ 140,000
+ 150,000
+0
+10
+20
+30
+40
+50
+60
+70
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Employees
+$Billions 2020
+Value Added
+Shipments
+Employees
+NIST AMS 600-13 
+November 2023 
+27 
+ 
+48.6 % of the Asia Pacific market (see Table A 4). As illustrated in Figure A 2, U.S. productivity 
+has grown significantly with a 3.1 % 5-year compound annual growth in total factor productivity 
+and 2.9 % for labor productivity. Meanwhile, wages grew slightly between 2008 and 2015; 
+however, they generally declined thereafter. 
+ 
+Table A 1: U.S. Share and Growth of Production Capacity 
+ 
+  
+  
+CAGR 
+  
+U.S. Share of 
+Global Capacity 
+U.S. 
+World 
+1990 
+37% 
+  
+  
+2000 
+19% 
+12.8% 
+20.20% 
+2010 
+13% 
+5.0% 
+9.60% 
+2020 
+12% 
+4.0% 
+4.90% 
+2030 (Projected) 
+10% 
+3.0% 
+4.60% 
+ 
+Source: Semiconductor Industry Association. 2020a. “Government Incentives and US Competitiveness in 
+Semiconductor Manufacturing.” https://www.semiconductors.org/wp-content/uploads/2020/09/Government-
+Incentives-and-US-Competitiveness-in-Semiconductor-Manufacturing-Sep-2020.pdf 
+ 
+Table A 2: 2019 National Share of Global Process Technology and Value of Subsidies, 2019 
+  
+  
+U.S. 
+Chin
+a 
+Taiwa
+n 
+South 
+Korea 
+Japa
+n 
+Europ
+e 
+Othe
+r 
+TOTA
+L 
+Process Technology 
+(lower is more 
+technologically 
+advanced) 
+< 10 nm 
+0% 
+0% 
+92% 
+8% 
+0% 
+0% 
+0% 
+100% 
+10-22 nm 
+43
+% 
+3% 
+28% 
+5% 
+0% 
+12% 
+9% 
+100% 
+28-45 nm 
+6% 
+19% 
+47% 
+6% 
+5% 
+4% 
+13% 
+100% 
+> 45 nm 
+9% 
+23% 
+31% 
+10% 
+13% 
+6% 
+7% 
+100% 
+Subsidies 2000-2020 
+(billions)* 
+$0  
+~$50 
+$0.5+ 
+$7-10  
+$5-
+7+ 
+$2.5+ 
+- 
+  
+Tax Incentives (2000-2020)** 
+No 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+  
+  
+Other Government Incentives 
+(2000-2020) 
+No 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+- 
+  
+Source: Semiconductor Industry Association. "2021 State of the U.S. Semiconductor Industry." 
+https://www.semiconductors.org/wp-content/uploads/2021/09/2021-SIA-State-of-the-Industry-Report.pdf 
+Source: Semiconductor Industry Association. 2020b. U.S. Needs Greater Semiconductor Manufacturing Incentives. 
+https://www.semiconductors.org/wp-content/uploads/2020/07/U.S.-Needs-Greater-Semiconductor-Manufacturing-
+Incentives-Infographic1.pdf?utm_source=morning_brew 
+* Estimates based on SIA analysis of national-level direct funding to companies 
+** Industry-specific tax incentives 
+ 
+NIST AMS 600-13 
+November 2023 
+28 
+ 
+Table A 3: U.S. Company Semiconductor Value Added Occurring Globally, 2019 
+ Category 
+U.S. Share of 
+Value Added 
+Category Share of Value 
+Added (Global)* 
+R&D Intensive 
+  
+  
+Electronic Design Automation and Core IP 
+74% 
+3% 
+Logic 
+67% 
+30% 
+Discrete, Analog, and Other 
+37% 
+17% 
+Memory Semiconductors 
+29% 
+9% 
+Manufacturing Equipment 
+41% 
+12% 
+Capital Intensive 
+  
+  
+Materials 
+11% 
+5% 
+Wafer Fabrication 
+12% 
+19% 
+Assembly, Packaging, and Testing 
+2% 
+6% 
+TOTAL 
+38% 
+100% 
+ 
+* Sum may not equal total due to rounding 
+Source: Semiconductor Industry Association. "2021 State of the U.S. Semiconductor Industry." 
+https://www.semiconductors.org/wp-content/uploads/2021/09/2021-SIA-State-of-the-Industry-Report.pdf  
+ 
+ 
+Table A 4: U.S. Firms Share of National Semiconductor Markets 
+Region 
+Total ($2022 Billion) 
+U.S. Share 
+China 
+180.5 
+53.4% 
+Asia Pacific/All Other Market 
+150.5 
+47.9% 
+Americas 
+141.1 
+41.8% 
+Europe 
+53.8 
+50.0% 
+Japan 
+48.2 
+42.8% 
+TOTAL 
+  
+48.0% 
+ 
+Source: Semiconductor Industry Association. 2023. 2023 Factbook. https://www.semiconductors.org/wp-
+content/uploads/2023/05/SIA-2023-Factbook_1.pdf 
+ 
+NIST AMS 600-13 
+November 2023 
+29 
+ 
+ 
+Figure A 2: Semiconductor Industry Productivity Indices, 1990-2021 
+Source: Bureau of Labor Statistics. 2022f. Productivity. https://www.bls.gov/productivity/data.htm 
+ 
+ 
+ 
+0.000
+20.000
+40.000
+60.000
+80.000
+100.000
+120.000
+140.000
+160.000
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+Index (Base year = 2012)
+Total Factor Productivity
+Labor Productivity
+Labor Compensation
+NIST AMS 600-13 
+November 2023 
+30 
+ 
+Appendix B. Additive Manufacturing 
+Table B.1 provides an approximation of the shipments and value added of the goods produced 
+using additive manufacturing in the United States. For this report, this is referred to as the 
+additive manufacturing industry. There are other associated activities such as the production of 
+the additive manufacturing machinery and materials. These are costs/inputs of the additive 
+manufacturing industry. The approximated shipments of goods produced using additive 
+manufacturing in the U.S. is $2.8 billion with value added being $1.4 billion. These represent a 
+small proportion of the manufacturing industry; however, it should not be concluded that this 
+technology is not important or impactful, as it is often an input in the production of other goods. 
+For instance, in 2022 utilities were only 1.4 % of GDP, but where would the economy be without 
+electricity. Nuts and bolts are a small proportion of the value of a car, but how would be 
+assemble an automobile without them. Additive manufacturing facilitates rapid prototyping to 
+produce products in a shorter period of time, weight/material reduction, and lower cost 
+production for small batches and customized products, including parts for products that are no 
+longer produced. Moreover, the size of the industry does not represent the economic impact of 
+the technology. 
+ 
+ 
+Table B.1: Approximation of U.S. Shipments and Value Added of Goods Produced using Additive 
+Manufacturing 
+Category 
+Relevant NAICS Codes 
+Shipments of US 
+Made AM 
+Products 
+($millions, 
+2021)* 
+Total US 
+Shipments 
+($millions, 
+2021) 
+AM Share 
+of 
+Industry 
+Shipments 
+Total 
+Value 
+Added 
+($millions, 
+2021)* 
+AM Value 
+Added 
+($millions, 
+2021) 
+Motor vehicles 
+NAICS 3361, 3362, 3363 
+433.48 
+620 402 
+0.07% 
+180 836 
+126 
+Aerospace 
+NAICS 336411, 336412,  
+498.80 
+152 113 
+0.33% 
+75 339 
+247 
+  
+336413 
+  
+  
+  
+  
+  
+Medical/dental 
+NAICS 3391 
+463.17 
+94 889 
+0.49% 
+62 293 
+304 
+Government/military 
+NAICS 336414, 336415, 
+178.14 
+40 502 
+0.44% 
+14 821 
+65 
+  
+336419, 336992 
+  
+  
+  
+  
+Architectural 
+NAICS 3323 
+133.61 
+113 646 
+0.12% 
+58 817 
+69 
+Consumer products/electronics,  
+All other within NAICS 
+1 054.01 
+954 970 
+0.11% 
+527 054 
+582 
+academic, and other 
+332 through 339 
+  
+  
+  
+  
+TOTAL 
+NAICS 332 through 339 
+2761.2 
+1 976 521 
+0.14% 
+919 160 
+1 394 
+* These values are calculated assuming that the percent of total additive manufacturing made products for each industry is the same for 
+the US as it is globally. It is also assumed that the US share of AM systems installed is equal to the share of revenue for AM products 
+Note: Numbers may not add up to total due to rounding 
+  
+  
+ 
+ 
