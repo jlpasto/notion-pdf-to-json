@@ -12,6 +12,10 @@ from googleapiclient.http import MediaFileUpload
 from notion_client import Client as NotionClient
 import logging
 from datetime import datetime
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # ========== LOGGING SETUP ==========
 now = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -30,13 +34,12 @@ log = logging.getLogger()
 
 
 # Initialize Notion client
-#NOTION_TOKEN = os.getenv("NOTION_TOKEN", "your_secret_token")  # Use env var if available
-NOTION_TOKEN = "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"
+NOTION_TOKEN = os.getenv("NOTION_TOKEN") 
 notion = Client(auth=NOTION_TOKEN)
 
 # Your Google API credentials
-CLIENT_ID = '555524124282-l7fbibdm5l52h09sp3cgoqokselvf3vj.apps.googleusercontent.com'
-CLIENT_SECRET = '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'
+CLIENT_ID = os.getenv("NOTION_TOCLIENT_IDKEN") 
+CLIENT_SECRET = os.getenv("CLIENT_SECRET") 
 
 SCOPES = ['https://www.googleapis.com/auth/drive.file']
 
