@@ -37,8 +37,7 @@ log = logging.getLogger()
 NOTION_TOKEN = os.getenv("NOTION_TOKEN") 
 notion = Client(auth=NOTION_TOKEN)
 
-# Your Google API credentials
-CLIENT_ID = os.getenv("NOTION_TOCLIENT_IDKEN") 
+CLIENT_ID = os.getenv("CLIENT_ID") 
 CLIENT_SECRET = os.getenv("CLIENT_SECRET") 
 
 SCOPES = ['https://www.googleapis.com/auth/drive.file']
