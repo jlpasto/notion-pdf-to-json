@@ -1,0 +1,6 @@
+notion-client
+requests
+PyMuPDF
+google-auth-oauthlib
+google-api-python-client
+python-dotenv
