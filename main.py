@@ -4,7 +4,7 @@ import os
 import sys
 import platform
 
-from main_app_logic import run_main_process
+from parser import run_main_process
 
 class NotionApp(tk.Tk):
     def __init__(self):
